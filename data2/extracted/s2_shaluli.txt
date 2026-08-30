@@ -1,0 +1,528 @@
+--- PAGE 1 ---
+ 四川动物 Sichuan Journal of Zoology  2023， 42（1） ： 101 - 108
+四川沙鲁里山系南段的鸟类多样性
+胡烨， 舒云菲， 王灿， 张塔星， 何兴成， 冉江洪 *
+（四川大学生命科学学院 ，生物资源与生态环境教育部重点实验室 ，成都 610065）
+摘要： 四川沙鲁里山系南段地处横断山区， 是我国和世界生物多样性保护的热点区域， 具有重要的生态和生物
+多样性保护价值。 2019 年 8 月—2021 年 4 月， 对沙鲁里山系南段四川省境内8 个县域的鸟类资源开展了野外调查，
+并结合历史资料， 统计出鸟类20 目 68 科 467 种。其中， 国家重点保护野生鸟类92 种， 中国特有鸟类28 种。在划分
+的 7 类生境 （ 干旱河谷灌丛、 针阔混交林、 亚高山针叶林、 高山灌丛草甸、 亚冰雪稀疏灌丛、 居民-农田和水域湿地 ） 中，
+针阔混交林中的物种最丰富， 水域湿地和亚冰雪稀疏灌丛中的最低。野外调查共观察到鸟类 31 739 只， 以水域湿地
+的数量最多 （35. 59%） ； 亚冰雪稀疏灌丛的最少 （1. 25%） 。各生境鸟类群落Shannon-Wiener 指数为： 亚高山针叶林>
+高山灌丛草甸 >针阔混交林 >干旱河谷灌丛 >亚冰雪稀疏灌丛 >居民-农田>水域湿地， 亚高山针叶林与高山灌丛草甸
+的鸟类群落相似性最高 （IsJ=0. 50） 。鸟类物种丰富度的垂直分布格局呈中峰模式： 中海拔段 （2 800~3 600 m） 达到峰
+值。本研究丰富了该区域生物多样性本底信息， 为区域整体保护和保护成效提升提供了科学依据。
+关键词： 沙鲁里山系南段； 鸟类多样性； 生境类型； 物种名录； 生物多样性保护
+中图分类号： Q959. 7  文献标志码： A  文章编号： 1000 - 7083（2023）01 - 0101 - 08
+Bird Diversity in the Southern Section of Shaluli Mountains, Sichuan
+HU Ye ， SHU Yunfei ， WANG Can ， ZHANG Taxing ， HE Xingcheng ， RAN Jianghong *
+（Key Laboratory of Bio‐Resource and Eco‐Environment of Ministry of Education ， College of Life Sciences ，
+Sichuan University ， Chengdu 610065 ， China）
+Abstract: The southern section of Shaluli Mountains （SSSM） is located in the Hengduan Mountains ， which is a hot area 
+of biodiversity conservation in China and in the world ， and has important ecological and biodiversity protection value. From 
+August 2019 to April 2021 ， field surveys of bird resources were carried out in the SSSM that includes 8 counties of Sichuan 
+Province. Combined with historical data ， there were 467 bird species belonging to 68 families and 20 orders ， accounting for 
+32.32% of the total number of bird species in China ， and 92 species of wild birds were under national priority protection 
+and 28 species were endemic to China. Among the 7 habitat types ， including arid valley shrub ， conifer-broadleaves mixed 
+forests， subalpine coniferous forest ， alpine scrub meaow ， subice -snow sparse shrub ， resident -farmlands and water wet‐
+land， coniferous and conifer -broadleaves mixed forests had the most abundant bird species ， while water wetland and 
+subice-snow sparse shrub had the lowest. A total of 31 739 birds were observed in the field survey. The largest number of 
+birds was observed in water wetlands ， accounting for 35.59% of the total ， and the lowest was observed in subice and snow 
+sparse shrubs ， accounting for only 1.25%. The order of Shannon -Wiener index of bird community in each habitat was subal‐
+DOI：10. 11984/j. issn. 1000 - 7083. 20220076
+收稿日期：2022-03-10  接受日期：2022-06-20
+基金项目：沙鲁里山系鸟类多样性调查与评估项目
+作者简介：胡烨， 女， 硕 士研究生，  主要从事鸟类多样性研究， E-mail：15071362637@163. com
+* 通信作者 Corresponding author ， E-mail：rjhong-01@163. com
+101
+
+--- PAGE 2 ---
+四川动物 2023 年 第 42 卷 第 1 期 Sichuan Journal of Zoology Vol.  42  No.  1 2023
+pine coniferous forest>alpine shrub meadow>conifer -broadleaves mixed forests>arid valley shrub>subice -snow sparse 
+shrub>resident -farmlands>water wetland. The bird community similarity between subalpine coniferous forest and alpine 
+scrub meadow was the highest （IsJ=0.50）. The vertical distribution pattern of bird species richness showed a middle peak 
+pattern， and reached a peak at the middle pull -out section of 2 800 －3 600 m asl. This study enriches the background infor‐
+mation of regional biodiversity and provides a scientific basis for improving the overall conservation and protection effective‐
+ness of the region.
+Keywords: southern section of Shaluli Mountains ； bird diversity ； habitat type ； species list ； biodiversity conservation
+生物多样性是人类赖以生存和发展的基础，
+为人类提供了丰富多样的生产生活必需品、 健康
+安全的生态环境和独特别致的景观文化， 但人类
+活动的扩展和对大自然的过度开发导致了生物多
+样性的丧失 （Ouyang et al. ，2016；Xu et al. ，2017） ，
+生物多样性保护日益受到国际社会和我国政府的
+高度重视。中国是世界上生物多样性最丰富的国
+家之一， 生物多样性保护虽然已取得长足成效， 但
+仍面临诸多挑战， 生物多样性保护工作还需进一
+步加强， 其中加强重要区域的生物多样性本底资
+源调查是重要的一环 （ 中共中央办公厅， 国务院办
+公 厅 ，2021） 。 鸟 类 是 生 物 多 样 性 的 重 要 构 成 组
+分 ， 也 是 生 物 多 样 性 保 护 关 注 的 重 要 类 群 （李 桂
+垣，1995） ， 鸟类多样性可直接反映栖息地的适宜
+性、 生态系统健康与生物多样性状况、 人类活动对
+生态系统的干扰程度以及区域生态环境的质量等
+（斯幸峰， 丁平，2011） ， 对鸟类多样性的调查和研
+究， 有利于厘清区域的资源本底， 为生物多样性的
+保护、 监测、 研究以及生态文明建设提供科学依据。
+沙鲁里山系南段地处横断山区中段， 是世界
+35 个生物多样性热点区域之一的 “中国西南山地”
+中不可或缺的部分 （Marchese，2015） ； 同时， 沙鲁里
+山系南段是国家 “两屏三带” 生态安全战略格局中
+的黄土高原 -川滇生态屏障和青藏高原生态屏障的
+组成部分， 具有重要的生态及生物多样性保护价
+值。沙鲁里山系南段开展的鸟类资源调查和研究
+工作集中在部分自然保护区， 如海子山国家级自
+然保护区 （ 符建荣等，2005） 、 佛珠峡县级自然保护
+区 （隆廷伦等，2010） 、 下拥省级自然保护区 （王疆
+评等，2016） 、 格西沟国家级自然保护区 （谢凡等，
+2022） 等； 以及单一物种的小区域调查研究， 如黑
+颈 鹤 Grus nigricollis 、 黄 喉 雉 鹑Tetraophasis szech⁃
+enyii 等 （Xu et al.，2010；Wang et al.，2013） 。该区域
+以往的鸟类资源的调查与研究总体表现出物种研
+究少、 调查区域小的特点， 且大部分调查时间短，
+不能全面、 系统反映整个区域的鸟类多样性状况，
+且开展本区域鸟类多样性调查， 也是贯彻落实 “持
+续推进生物多样性保护优先区域和国家战略区域
+本底调查与评估” 的要求 （中共中央办公厅， 国务
+院办公厅，2021） 。
+2019—2021 年， 在沙鲁里山系南段对四 川 省
+8 个 县开展了鸟类资源调查， 结合历史资料对沙鲁
+里山系南段的鸟类多样性状况进行了系统整理和
+分析， 以期丰富和完善该区域鸟类多样性的基础
+资 料 ， 为 该 区 域 及 我 国 生 物 多 样 性 保 护、 价 值 评
+估、 自然保护地的建设与管理， 以及区域生态文明
+建设等方面提供科学支撑。
+1　研究区域
+沙鲁里山系南段四川省部分涉及甘孜藏族自
+治州的巴塘县、 理塘县、 得荣县、 乡城县、 雅江县、
+稻城县和凉山彝族自治州的木里藏族自治县、 盐
+源 县 ， 共8 个 县 级 行 政 区 ， 地 理 坐 标98°55 ′44 ″~
+102°5 ′13 ″E ，27°1 ′4″~30°47 ′10 ″N ， 海 拔1 182~
+6 123 m ， 总面积66 083.8 km
+2。该区域地势北高南
+低、 河谷深切， 属于高山峡谷地形， 植 被 垂 直 带 谱
+明 显 ：2 400 m 以 下 为 干 热 河 谷 灌 丛 带 ，2 400~
+3 200 m 为山地针阔混交林带，3 200~4 000 m 主要
+102
+
+--- PAGE 3 ---
+胡烨等：四川沙鲁里山系南段的鸟类多样性
+为亚高山针叶林带，4 000~4 500 m 主要为高山灌
+丛草甸带，4 500 m 以上为亚冰雪稀疏灌丛带 （ 刘伦
+辉，1984； 张宏，2016） 。
+2　研究方法
+2. 1　野外调查方法
+以 8 个县的自然保护区为调查重点， 同时兼顾
+各类生境及海拔梯度。采用样线法开展调查， 样
+线长 2~4 km， 相邻样线间隔不少于1 km， 在调查样
+线上记录发现的鸟种、 数量、 生境、 位置等信息 。
+调 查 时 间 为2019 年 8、10 月 ，2020 年 1、5、8 月 ，
+2021 年 1、4 月， 每个县域调查3~4 次， 累计调查样
+线 405 条 （ 含少量重复样线 ） （ 图1） 。
+2. 2　资料收集
+广 泛 收 集 研 究 区 域 鸟 类 分 布 记 录 的 历 史 资
+料， 包括已公开发表的文献、 著作、 研究区域内保
+护区已有的科学考察报告， 以及本课题组近 10 年
+对该区域的调查记录。此外还收集各类公众网站
+在本区域的鸟类观察记录， 包括中国观鸟记录中
+心 （http：//www. birdreport. cn/） 、eBird 观 鸟 数 据 集
+（https：//ebird. org/） 、 全 球 生 物 多 样 性 信 息 网 络
+（https：//www.gbif.org/） 、 物种库 （ 自然保护地数字生
+物 物 种 资 源 库 ，http：//www.npadata.cn/ ） 等 。 共 计
+10 544 条。
+2. 3　分析方法
+2. 3. 1　鸟类组成 　鸟类分类系统、 居留型和特有
+种参照 《中国鸟类分类与分布名录 （第三版） 》 （郑
+光 美 ，2017） ； 濒 危 等 级 参 照 《世 界 自 然 保 护 联 盟
+（IUCN） 濒危物种红色名录》 （IUCN，2021） ； 区系参
+照 《中国动物地理》 （ 张荣祖，2011） ； 保护级别参考
+《国家重点保护野生动物名录》 （国家林业和草原
+局， 农业农村部，2021） 。对已有记录的准确性进
+行校核， 根据物种分布范围等剔除错误记录， 并订
+正物种名称。
+图 1　沙鲁里山系南段研究区域和鸟类调查样线
+Fig.  1　Study area and transectlines of birds in the south section of Shaluli Mountains
+103
+
+--- PAGE 4 ---
+四川动物 2023 年 第 42 卷 第 1 期 Sichuan Journal of Zoology Vol.  42  No.  1 2023
+2. 3. 2　生境与海拔梯度划分 　根据沙鲁里山系
+南段的植被特征， 将生境划分为干旱河谷灌丛、 针
+阔混交林、 亚高山针叶林、 高山灌丛草甸、 亚冰雪
+稀疏灌丛、 居民-农田和水域湿地 7 类。以 400 m 为
+间隔 将 调 查 海 拔 （1 600~4 900 m ） 分 为8 个 海 拔
+段 ：1 600~2 000 m 、2 000~2 400 m 、2 400~2 800 m 、
+2 800~3 200 m 、3 200~3 600 m 、3 600~4 000 m 、
+4 000~4 400 m 和 4 400 m 以上。
+2. 3. 3　 多 样 性 分 析　 采 用 Shannon-Wiener 指 数
+（H′） 计 算 不 同 生 境 鸟 类 群 落 的α 多 样 性 （Whit‐
+taker ，1972） ：H′=−
+∑
+i = 1
+S
+Pi ln Pi ， 式 中 ，S 为 物 种 数 ，
+Pi 为物种 i 的个体数与总个体数的比值。
+采 用 相 似 性 指 数 Jaccard（IsJ） 计 算 鸟 类 群
+落 的 β 多 样 性（McCune & Grace ，2002）：IsJ=
+C ( A，B)
+[ N ( A)，N ( B) ]， 式 中 ，C（A，B） 为 生 境A 和 生 境B
+共 同 拥 有 的 物 种 数 ， ［N（A） ，N（B） ］ 为 生 境A 和
+生境 B 的总物种数。
+采 用 Berger-Parker 优 势 度 指 数 （I） 计 算 不 同
+生 境 鸟 类 物 种 的 优 势 度 （马 克 平 ， 刘 玉 明 ，
+1994） ：I=Ni
+N ， 式中，Ni 为物种 i 的个体数，N 为全部
+物种的总个体数。 I≥0.05 为优势种，0.005≤I<0.05
+为常见种，I<0.005 为少见种或偶见种。
+3　结果
+3. 1　鸟类组成
+野外调查记录鸟类 16 目 59 科 282 种， 结合历
+史资料数据和公众网站数据， 统计出沙鲁里山系
+南 段 鸟 类 20 目 68 科 467 种（https：//doi. org/
+10.11984/j.issn.1000 -7083.20220076） ， 占全国鸟类
+种数 （ 郑光美，2017） 的32.32%。其中， 雀形目Pas‐
+seriformes 最多 （300 种 ） ， 占64.23%。从居留型看，
+留鸟 232 种， 夏 候 鸟122 种 ， 旅 鸟72 种 ， 冬 候 鸟
+41 种 。 繁殖鸟中， 东洋界物种227 种， 占64.12%，
+古 北 界 物 种 93 种 ， 占26.27%， 广 布 种34 种 ， 占
+9.61%， 符合本区属于东洋界西南区的特征。
+3. 2　珍稀濒危物种
+区域内分布有国家一、 二级重点保护野生鸟
+类 92 种， 其中， 一级19 种： 斑尾榛鸡Tetrastes sewer⁃
+zowi、 黄喉雉鹑、 绿尾虹雉Lophophorus lhuysii 、 青头
+潜鸭 Aythya baeri 、 中华秋沙鸭Mergus squamatus 、 黑
+颈 鹤 、 黑 鹳Ciconia nigra 、 东 方 白 鹳Ciconia boyci⁃
+ana、 胡兀鹫Gypaetus barbatus 、 秃鹫Aegypius mona⁃
+chus、 乌雕Clanga clanga 、 草原雕Aquila nipalensis 、
+金雕 Aquila chrysaetos 、 玉带海雕Haliaeetus leucory⁃
+phus、 白 尾 海 雕Haliaeetus albicilla 、 四 川 林 鸮Strix 
+davidi、 猎 隼Falco cherrug 、 白 点 噪 鹛Garrulax bieti
+和黑头噪鸦 Perisoreus internigrans ， 二级73 种。
+列入 CITES 公约附录 Ⅰ的 7 种： 藏雪鸡Tetrao⁃
+gallus tibetanus 、 绿尾虹雉、 白马鸡Crossoptilon cros⁃
+soptilon、 黑颈鹤、 东方白鹳、 白尾海雕和游隼Falco 
+peregrinus， 附录Ⅱ的 40 种。
+被 《IUCN 濒危物种红色名录》 列为极危 （CR）
+等级的 1 种： 青头潜鸭， 濒危 （EN） 等级的6 种： 中华
+秋沙鸭、 东方白鹳、 草原雕、 玉带海雕、 猎隼、 巨
+Sitta magna ， 易危 （VU） 等级的6 种。
+中国特有鸟类 28 种， 占中国特有鸟类种数 （ 郑
+光 美 ，2017） 的30.11%， 分 别 是 斑 尾 榛 鸡 、 黄 喉 雉
+鹑、 绿尾虹雉、 白马鸡、 四川林鸮、 黑头噪鸦、 黄腹
+山雀 Pardaliparus venustulus 、 白眉山雀Poecile super⁃
+ciliosus、 红腹山雀Poecile davidi 、 四川褐头山雀Poe⁃
+cile weigoldicus 、 地山雀Pseudopodoces humilis 、 银喉
+长 尾 山 雀Aegithalos glaucogularis 、 银 脸 长 尾 山 雀
+Aegithalos fuliginosus 、 凤头雀莺Leptopoecile elegans 、
+宝兴鹛雀 Moupinia poecilotis 、 中华雀鹛Fulvetta stri⁃
+aticollis、 斑背噪鹛Garrulax lunulatus 、 大噪鹛Garru⁃
+lax maximus 、 白点噪鹛、 山噪鹛Garrulax davidi 、 橙
+翅 噪 鹛 Trochalopteron elliotii 、 四 川 旋 木 雀Certhia 
+tianquanensis 、 滇 Sitta yunnanensis 、 乌 鸫Turdus 
+mandarinus、 宝 兴 歌 鸫 Turdus mupinensis 、 朱 鹀
+Urocynchramus pylzowi 、 藏雪雀Montifringilla henrici
+和斑翅朱雀 Carpodacus trifasciatus 。
+104
+
+--- PAGE 5 ---
+胡烨等：四川沙鲁里山系南段的鸟类多样性
+3. 3　生境分布
+野外实际调查数据统计结果显示， 针阔混交
+林生境的鸟类物种最丰富， 有10 目 42 科 191 种， 优
+势种为黄臀鹎 Pycnonotus xanthorrhous（I=0.088） 和
+灰眉岩鹀 Emberiza godlewskii（I=0.095） ； 亚高山针
+叶林次之， 有10 目 41 科 151 种， 优势种为橙翅噪 鹛
+（I=0.057） ； 干 旱 河 谷 灌 丛 有8 目 38 科 103 种 ， 优
+势种 为 黄 臀 鹎 （I=0.183） 和 麻 雀Passer montanus
+（I=0.293） ； 高 山 灌 丛 草 甸 带 有8 目 27 科 101 种，
+优 势 种 为 高 原 山 鹑Perdix hodgsoniae（I=0.054） 、
+达 乌 里 寒 鸦 Corvus dauuricus （I=0.057） 、 林 岭 雀
+Leucosticte nemoricola（I=0.074） ； 居 民- 农 田 有8 目
+33 科 82 种 ， 优 势 种 为 黄 臀 鹎 （I=0.082） 和 麻 雀
+（I=0.481） ； 水域湿地和亚冰雪稀疏灌丛中的鸟类
+物种丰富度最低， 均仅有35 种。
+野 外 调 查 共 计 观 察 到 鸟 类 31 739 只 。 水
+域 湿地观察到的鸟类数量最多， 为 11 295 只 ， 占
+35.59%； 其次是针阔混交林 （6 450 只，20.32%） ； 亚
+冰雪稀疏灌丛的最少 （396 只，1.25%） 。7 类生境中
+鸟类群落的 Shannon-Wiener 指数为： 亚 高 山 针 叶
+林 >高山灌丛草甸 >针阔混交林 >干旱河谷灌丛 >亚
+冰雪稀疏灌丛>居民-农田>水域湿地 （ 图2） 。
+亚 高 山 针 叶 林 与 高 山 灌 丛 草 甸 的 鸟 类 群 落
+相 似 性 最 高 （IsJ=0.50） ， 其 次 为 亚 高 山 针 叶 林 与
+针阔混交林 （IsJ=0.49） ， 居民-农田与干旱河谷灌
+丛 （IsJ=0.48） ， 针 阔 混 交 林 与 干 旱 河 谷 灌 丛 （IsJ=
+0.43） ， 其余生境之间的IsJ 均<0.40（表1） 。
+3. 4　垂直分布
+海拔段与物种数的多元回归分析显示， 鸟类
+物种丰富度随海拔呈中峰分布格局， 在 2 000 m 以
+下 和 4 400 m 以 上 的 物 种 丰 富 度 较 低 ， 在2 800~
+3 600 m 的中海拔段物种丰富度最高 （ 图3） 。
+4　讨论
+沙鲁里山系南段共记录鸟类 20 目 68 科 467 种，
+占四川省鸟类物种数 （ 阙品甲等，2020） 的61.69%；
+图 2　沙鲁里山系南段不同生境中鸟类群落的个体数和 Shannon-Wiener 指数
+Fig.  2　Number of individuals and Shannon -Wiener index of bird communities in different habitats 
+in the south section of Shaluli Mountains
+105
+
+--- PAGE 6 ---
+四川动物 2023 年 第 42 卷 第 1 期 Sichuan Journal of Zoology Vol.  42  No.  1 2023
+有国家重点保护野生鸟类 92 种。可见区域鸟类物
+种丰富， 珍稀濒危程度高， 具有较高的保护价值。
+区域海拔跨度大 （1 182~6 123 m） ， 植被类型丰富，
+气候差异大， 多种鸟类共存分布。本区域位于全
+球 9 大候鸟迁移路线的中亚 -印度迁徙路线和东亚 -
+澳大利亚迁徙路线中， 迁移鸟类种类也较为丰富。
+本次野外调查共记录鸟类 282 种， 还有185 种
+未调查到。主要原因是： （1） 研究区域范围广、 调
+查 力 度 和 强 度 还 不 够 充 分 ； （2） 调 查 时 间 均 为 白
+天， 未能调查到夜行性鸟类， 如部分鸮形目Strigi‐
+formes 鸟类； （3） 部分鸟类分布范围狭窄、 种群数量
+少， 不易发现， 如针尾绿鸠Treron apicauda 、 白点噪
+鹛、 中华秋沙鸭 （任巍等，2008） 和绿尾虹雉 （黄世
+强， 李福来，1986） 等。
+对比历史资料记载， 本次野外调查新增鸟类
+42 种。新增种类大部分为不易被发现的鸟类， 如
+林 雕Ictinaetus malaiensis 、 鳞 胸 鹪 鹛Pnoepyga albi⁃
+venter、 银脸长尾山雀和柳莺科Phylloscopidae 鸟类
+等； 也包括在新分类系统中由亚种提升为种的鸟
+类， 如蓝眉林鸲Tarsiger rufilatus 由红胁蓝尾鸲 Tar⁃
+siger eyanurus 的 亚 种 提 升 为 种 （Martens & Eck ，
+1995；Rasmussen & Anderton ，2005） 、 白点噪鹛由斑
+背噪鹛的亚种提升为种 （Inskipp et al.，1996） 。历
+史资料记录的部分物种未纳入本次统计， 王疆评
+等 （2016） 在四川下拥自然保护区记录有长尾鹩鹛
+Spelaeornis chocolatinu ， 但 阙 品 甲 等 （2020） 认 为 在
+未获得更多证据之前， 暂不将其纳入四川省鸟类
+记录中。
+亚高山针叶林与高山灌丛草甸之间的鸟类群
+落 Jaccard 相似性指数最高， 其次是亚高山针叶林
+与针阔混交林和居民 -农田与干旱河谷灌丛， 这可
+能是由于亚高山针叶林处于高山灌丛草甸与针阔
+混交林的过渡区域， 鸟类生境的分布部分重叠， 因
+此与这 2 种生境呈现出较高的相似性； 而居民 -农
+田与干旱河谷灌丛大多处于较低海拔区域， 鸟类
+活动范围重叠， 也呈现出群落相似性较高的特点。
+在生境分布中， 以针阔混交林和亚高山针叶
+林的鸟类物种最丰富， 这与研究区域内的下拥自
+然保护区和格西沟自然保护区的鸟类生境分布研
+究结果一致 （ 王疆评等，2016； 谢凡等，2022） ， 同属
+于横断山区的贡嘎山的鸟类生境分布呈相同的特
+点 （吴永杰等，2017； 夏万才等，2020） 。针阔混交
+林中观测到的物种数和个体数均高于亚高山针叶
+林， 但Shannon-Wiener 指数却比亚高山针叶林低，
+这可能是针阔混交林植物种类、 植被结构和食源
+表 1　沙鲁里山系南段不同生境鸟类群落相似性指数
+Table 1　Jaccard similarity index of bird community at
+different habitats in the south section of Shaluli Mountains
+植被类型
+针阔混交林
+亚高山针叶林
+高山灌丛草甸
+亚冰雪稀疏灌丛
+居民-农田
+水域湿地
+干旱
+河谷
+灌丛
+0. 43
+0. 34
+0. 28
+0. 12
+0. 48
+0. 02
+针阔
+混交
+林
+0. 49
+0. 34
+0. 14
+0. 37
+0. 02
+亚高
+山针
+叶林
+0. 50
+0. 19
+0. 30
+0. 02
+高山
+灌丛
+草甸
+0. 30
+0. 31
+0. 02
+亚冰雪
+稀疏
+灌丛
+0. 19
+0
+居民‐
+农田
+0. 02
+图 3　沙鲁里山系南段鸟类物种丰富度垂直分布格局
+Fig.  3　Elevational pattern of birds richness
+in the south section of Shaluli Mountains
+黑实线代表多元回归拟合曲线， 灰影代表拟合曲线95% 的置信区间
+The black solid line is polynomial regression fitting curve ， and the 
+gray shadow is 95% confidence interval
+106
+
+--- PAGE 7 ---
+胡烨等：四川沙鲁里山系南段的鸟类多样性
+更为复杂多样， 为鸟类提供的生存资源更加丰富，
+能够满足更大数量的鸟类生存条件； 而亚高山针
+叶林生境相对单一， 鸟类个体数量受到环境资源
+的限制， 种间竞争较为激烈， 少有个体数量占优的
+种群， 物种分布更加均匀， 因此亚高山针叶林中的
+多样性指数高于针阔混交林， 黑竹沟自然保护区的
+鸟类多样性也具有相同的特点 （ 张塔星等，2020） 。
+鸟 类 物 种 多 样 性 随 海 拔 呈 中 峰 模 式 ， 并 在
+2 800~3 600 m 的中海拔段达到峰值， 这种垂直分
+布模式是较经典的物种分布模式之一， 在全球范
+围内十分常见 （McCain，2009） 。从现有研究结果
+看， 横断山及川西高山峡谷区域的垂直分布基本
+呈中峰模式， 但由于不同研究区域大小、 海拔高差
+和人类活动差异， 其鸟类的海拔峰值也存在差异。
+Wu 等 （2013） 以整个横断山区的738 种繁殖鸟类作
+为研究对象， 该中峰峰值出现在800~1 800 m 的中
+低海拔段； 四川美姑大风顶国家级保护区的中峰
+峰值出现在海拔 2 600~3 000 m（ 陈雪等，2019） ； 四
+川省黑竹沟国家级自然保护区的中峰峰值出现在
+海拔 1 600~2 400 m（张塔星等，2020） 。本研究区
+域鸟类垂直分布模式的中峰峰值出现的海拔段比
+周边其他区域高， 可能是由于本研究区域平均海
+拔较高， 高海拔地区的区域面积占比较大， 而低海
+拔地区的区域面积占比较小 （ 张宏，2016） ， 导致鸟
+类群落的分布更高。
+根据调查与分析结果， 对该区域鸟类多样性
+的保护和管理提供以下建议： （1） 进一步加强鸟类
+多样性的调查与监测。本区域范围广， 海拔跨度
+大， 还有一些鸟类未被实际调查到； 且鸟类编目是
+一个长期积累的过程， 需要长期不断的调查和监
+测才能清楚本底资源及其变化情况。 （2） 针对性地
+开展珍稀濒危鸟类物种的专项调查和研究。区域
+内分布 92 种国家重点保护鸟类， 本次野外调查仅
+调查确认到 42 种， 尤其是一些分布范围狭窄、 种群
+数量较低的物种的分布状况不明， 如中华秋沙鸭、
+白 点 噪 鹛 和 针 尾 绿 鸠 等 仅 只 有 个 别 历 史 资 料 记
+录， 鹦鹉类的分布也不清楚。雅江县林业局的工
+作 人 员 曾 在 雅 砻 江 河 谷 区 域 拍 摄 到 了 白 鹇
+Lophura nycthemera 雌体， 但在调查访问中未发现，
+是否存在分布需要进一步调查确认。 （3） 加强自然
+保护地的管理机构能力建设。沙鲁里山系南段涉
+及的保护地较多， 现有18 个自然保护区， 但保护区
+的 保 护 管 理 能 力 普 遍 较 弱 ， 缺 乏 人 员、 资 金 和 技
+术， 除少量国家级保护区外， 其余基本都没有开展
+资源监测工作。因此， 需要进一步加强区域内自
+然保护地的机构能力建设， 提升区域生物多样性
+保护成效。 （4） 加强区域内水鸟重要栖息地
+——四
+川泸沽湖自然保护区的保护和管理。本次调查结
+合历史资料统计泸沽湖有水鸟 65 种， 其中国家重
+点保护野生鸟类 12 种； 在本区域内分布的39 种冬
+候鸟中， 有33 种见于泸沽湖， 可见， 泸沽湖是区域
+内水鸟最重要的迁徙停息地及越冬地。但随着泸
+沽湖旅游业的不断发展， 商业建筑、 污染物、 游客
+数量逐渐增长， 出现了草海面积缩小、 水体质量富
+营养化以及水鸟多样性下降等负面效应 （ 彭徐等，
+2019） ， 需加强湿地水鸟及生态环境的保护。
+致谢：感谢调查区域 8 个县的林业和草原局及自然
+保护区的支持； 感谢实验室郑志荣老师和朱博伟、
+李东睿、 廖静、 晋雨漪、 邹博研、 甘立涛、 白俊、 白小
+甜 、 曹 亚 珍 、 李 亚 、 李 明 明 等 对 野 外 调 查 工 作 的
+帮助。
+参考文献:
+陈雪， 张塔星， 罗概， 等 .  2019.  四川美姑大风顶国家级自
+然保护区鸟类物种及垂直多样性研究 ［ J］.  四川动物， 
+38（4） ： 445-451.
+符建荣， 刘少英， 孙治宇， 等 .  2005.  四川海子山自然保护
+区鸟类群落结构及多样性 ［J］.  四川林业科技， 6： 1-4.
+国家林业和草原局， 农业农村部 .  2021.  国家重点保护野
+生动物名录 ［EB/OL］.  （2021-02-05） ［2 022 -02-23］.  http： 
+//www. forestry. gov. cn/main/5461/20210205/12241886083 
+1352. html.
+黄世强， 李福来 .  1986.  绿尾虹雉的求偶行为 ［J］.  野生动
+物学报， （4） ： 32.
+107
+
+--- PAGE 8 ---
+四川动物 2023 年 第 42 卷 第 1 期 Sichuan Journal of Zoology Vol.  42  No.  1 2023
+李桂垣 .  1995.  四川鸟类原色图鉴 ［M］.  北京： 中国林业出
+版社 .
+刘伦辉， 余有德， 张建华 .  1984.  横断山自然植被垂直带
+的划分 ［J］.  云南植物研究， 6（2） ： 205-216.
+隆廷伦， 刘少英， 彭培好， 等 .  2010.  海子山 佛珠峡 泸沽
+湖 生 物 多 样 性 调 查 报 告 ［M］.  成 都 ： 四 川 科 学 技 术 出
+版社 .
+马克平， 刘玉明 .  1994.  生物群落多样性的测度方法 Ⅰ－α
+多 样 性 的 测 度 方 法 （下） ［J］.  生 物 多 样 性 ， 2（4） ： 
+231-239.
+彭徐， 杨位飞， 徐大勇， 等 .  2019.  四川泸沽湖湿地冬季水
+鸟调查研究 ［J］.  西昌学院学报， 33（4） ： 1-7.
+阙品甲， 朱磊， 张俊， 等 .  2020.  四川省鸟类名录的修订与
+更新 ［J］.  四川动物， 39（3） ： 332-360.
+任巍， 张志麟， 米小其， 等 .  2008.  中华秋沙鸭在湖南的新
+分布 ［J］.  动物学杂志， 43（4） ： 19.
+斯幸峰， 丁平 .  2011.  欧美陆地鸟类监测的历史、 现状与我
+国的对策 ［J］.  生物多样性， 19（3） ： 303-310.
+王疆评， 王新， 伏明波， 等 .  2016.  四川下拥自然保护区鸟
+类资源调查 ［J］.  四川林业科技， 37（3） ： 75-83.
+夏万才， 邵发亮， 贾国清， 等 .  2020.  贡嘎山鸟类的多样
+性、 分布及区系 ［J］.  应用与环境生物学报， 26（4） ： 1028-
+1039.
+谢凡， 鲁碧耕， 油志远， 等 .  2022.  四川格西沟国家级自然
+保护区鸟类多样性初探 ［J］.  四川动物， 41（1） ： 107-120.
+张宏 .  2016.  四川地理 ［M］.  北京： 北京师范大学出版社 .
+张荣祖 .  2011.  中国动物地理 ［M］.  北京： 科学出版社 .
+张塔星， 陈雪， 李东睿， 等 .  2020.  四川黑竹沟国家级自然
+保护区的鸟类多样性 ［J］.  四 川动物，  39（4） ： 453-464.
+郑光美 .  2017.  中国鸟类分类与分布名录 （第三版） ［M］.  
+北京： 科学出版社．
+中共中央办公厅， 国务院办公厅 .  2021.  中共中央办公厅
+国务院办公厅印发 《关于进一步加强生物多样性保护的
+意见 》 ［EB/OL］.  （2021-10-19） ［2022-02-23］.  http：//www.
+gov. cn/gongbao/content/2021/content_5649729. htm.
+Inskipp T ， Lindsey N ， Duckworth W.  1996.  An annotated 
+checklist of the birds of the oriental region ［M］.  Bedford， 
+UK： The Oriental Bird Club.
+IUCN.  2021.  The IUCN red list of threatened species ［EB/
+OL］.  ［2022-02-22］.  https：//www. iucnredlist. org.
+Marchese C.  2015.  Biodiversity hotspots ： a shortcut for a 
+more complicated concept ［J］.  Global Ecology and Conser‐
+vation， 3（74） ： 297-309.
+Martens J ， Eck S.  1995.  Towards an ornithology of the Hima‐
+layas： systematics ， ecology and vocalizations of Nepal birds
+［J］.  Bonner Zoologische Monographien， 38（38） ： 1-445.
+McCune BP ， Grace J.  2002.  Analysis of ecological communi‐
+ties［M］.  Gleneden Beach， USA： Mjm Software Design.
+McCain CM.  2009.  Global analysis of bird elevational diver‐
+sity ［J］.  Global Ecology and Biogeography ， 18 （3） ： 
+346-360.
+Ouyang Z ， Zheng H ， Xiao Y ， et al .  2016.  Improvements in 
+ecosystem services from investments in natural capital ［J］.  
+Science， 352（6292） ： 1455-1459.
+Rasmussen PC ， Anderton JC.  2005.  Birds of south Asia： the 
+Ripley guide［M］.  Washington D. C.  and Barcelona： Smith‐
+sonian Institution and Lynx Edicions.
+Wang N ， Zhu PF ， Wan M ， et al.  2013.  Size and distribution 
+of the breeding population of black -necked crane in Haizis‐
+han， Sichuan Province ［J］.  Journal of Ecology and Rural 
+Environment ， 29（2） ： 265-268.
+Whittaker RH.  1972.  Evolution and measurement of species 
+diversity［J］.  Taxon， 21（2-3） ： 213-251.
+Wu YJ ， Colwell RK ， Rahbek C ， et al.  2013.  Explaining the 
+species richness of birds along a subtropical elevational gra‐
+dient in the Hengduan Mountains ［J］.  Journal of Biogeogra‐
+phy， 40（12） ： 2310-2323.
+Xu W ， Xiao Y ， Zhang J ， et al .  2017.  Strengthening pro‐
+tected areas for biodiversity and ecosystem services in China
+［J］.  
+PNAS ， 114（7） ： 1601-1606.
+Xu Y ， Yang N ， Wang Y ， et al.  2010.  Roosting behavior and 
+roost selection by buff -throated partridges Tetraophasis szech⁃
+enyii during the breeding season ［J］.  Zoological Studies， 
+49（4） ： 461-469.
+108
+

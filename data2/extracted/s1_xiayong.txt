@@ -1,0 +1,552 @@
+--- PAGE 1 ---
+第37卷 第3期 四 川 林 业 科 技 Vo1．37， No．3
+2016年 6月 Journal of Sichuan Forestry Science and Technology Jun．， 2016
+doi:10．16779/j．cnki．1003 －5508．2016．03．014
+四川下拥自然保护区鸟类资源调查
+王疆评1，王 新1，伏明波2，廖 锐1，张 勇3，符建荣1
+(1．四川省林业科学研究院，四川成都 610081;2．苍溪县林业和园林局，四川苍溪 628400;
+3．得荣县林业局，四川得荣 627950)
+摘 要:2014年4月和9月，对得荣下拥自然保护区内鸟类资源进行了初步调查。通过实地调查，结合访问及文献
+资料，最终确认保护区内鸟类总种数为210种，隶属于15目46科。非雀形目鸟类70种(33.33%)，雀形目140种
+(66.67%);冬候鸟25种(11.90%)，留鸟127种(60.48%)，夏候鸟42种(20%)，旅鸟16种(7.62%);古北界鸟类
+88种(41.90%)，东洋界99种(47.15%)，广布型23种(10.95%)。国家Ⅰ级保护鸟类4种(1.90%)，国家Ⅱ级保
+护16种(7.62%)。
+关键词:下拥自然保护区;鸟类;区系
+中图分类号:Q959.7 文献标识码:A 文章编号:1003－5508(2016)03－0075－09
+Bird Ｒesources in Xiayong Nature Ｒeserve in Sichuan Province
+WANG Jiang-ping1 WANG Xin1 FU Ming-bo2 LIAO Ｒui1 ZHANG Yong3 FU Jian-rong1
+(1．SichuanAcademyofForestry，Chengdu 610081，Sichuan; 2．ForestryBureauofCangxiCounty，Cangxi 628400;
+3．ForestryBureauofDerongCounty，Derong 627950)
+Abstract:Bird investigations were conducted in Xiayong Nature Ｒeserve in April and September of2014．
+The result found that there were210 species，belonging to46 families，15 orders．Among them，140 species
+belonged to Passeriformes( 66.67%) ，70 species belonged to other orders( 33.33%) ; 25 species were
+winter migratory birds( 11.90%) ，127 species were residents( 60.48%) ，42 species were summer resi-
+dents(20%) ，16 species were transient migrants (7.62%) ;Geographical distribution included88 Palae-
+arctic species(41.90%) ，99 Oriental species (47.14%) and23 cosmopolitan species(10.95%) ．Among
+these birds，4 species were national first-grade protected wildlife(1.90%) ，16 species were national sec-
+ond-grade protected wildlife(7.62%) ．
+Key words:Xiayong Nature Ｒeserve，Birds，Avifauna
+下拥自然保护区位于四川西部( 28°12'20″ ～ 列，山脉多呈南北走向( 何瑞松等，2009) 。区内海
+28°26'59″N，99°14'36″ ～99°25'02″E) ，地处得荣县 拔范围为2 100 m ～5 599 m，相对海拔高差达3 499
+古学、子庚两乡境内，总面积23 693 hm2。保护区位 m。保护区最高峰也是县境最高峰，地处古学乡下
+于青藏高原东南边缘地带，地貌复杂，第四纪以后地 拥村的后山，海拔高度即5 599 m。
+表逐渐抬升，并在各种地质外力作用下，切割成高山 保护区内的植被垂直地带性特征明显，海拔
+峡谷地貌。境内沟壑纵横，北高南低，高山与峡谷并 2 100 m～3 000 m 范围为干旱河谷灌丛带，植被以
+收稿日期:2016-03-03
+资金项目:四川得荣自然保护区综合科学考察和总体规划。
+作者简介:王疆评(1983-)，男，助理研究员，硕士研究生，主要研究方向:鸟类生态学，31696343@qq．com。
+致谢:在野外调查中，得到得荣县林业局的大力支持，在野外生活中得到下拥村村民泽仁邓珠等人的热情帮助，论文撰写过程中刘少英老
+师给予中肯建议，在此一并表示感谢!
+
+--- PAGE 2 ---
+76 四 川 林 业 科 技 37卷
+各类灌丛为主; 海拔3 000 m ～3 600 m 范围为温性 2．1 鸟类组成
+针叶林带，植被以高山松林和高山栎灌丛为主;海拔 调查共记录到鸟类15 目46 科210 种，其中，实
+3 600 m～4 200 m 范围为寒温性针叶林带，其间分 地调查到152 种，参考资料和访问记录到58 种。占
+布有保护区绝大部分的森林群落和大部分灌丛、草 四川省鸟类总种数683 种( 徐雨，冉江洪，2008) 的
+甸群落，是保护区重要的生物量分布区; 海拔4 200 30.75%，占全国鸟类总种数1371( 郑光美，2011) 的
+m～4 600 m为高寒灌丛草甸带，该区域以灌丛草甸 15.32%。其中非雀形目鸟类 70 种，占总种数的
+植被类型为主，分布面积大; 海拔高于4 600 m 的区 33．33%，雀形目鸟类 140 种，占总种数的 66.67%
+域多数处于雪线附近，受到高寒气候影响及冰雪融 ( 表1) 。
+化冲刷，区域内植被分布相对较少，主要为裸岩或高 表1 下拥自然保护区鸟类目、科及物种组成
+山流石滩植被分布区，偶见稀疏的密枝杜鹃和雪山 Table1 Theorder，familyandspeciescompositionofbirds
+杜鹃灌丛。 in Xiayong Nature Ｒeserve
+保护区自建立以来，未见对其间分布的鸟类资 目 科 物种 占全部物种
+数 数比例(%)
+源进行过专项报道，为了掌握保护区的鸟类资源、区 䴙鷉目CICONIIFOＲMES 鸊鷉科Podicipedidae 1 0．47
+鹈形目PELECANIFOＲMES 鸬鹚科Phalacrocoracidae 1 0．47
+系等基础资料，为保护区主管部门科学的保护和管
+鹳形目CICONIIFOＲMES 鹭科Ardeidae 2 0．95
+理鸟类资源提供依据，我们于2014 年4 月和9 月对 雁形目ANSEＲIFOＲMES 鸭科Anatidae 13 6．19
+隼形目FALCONIFOＲMES 鹰科Accipitridae 8 3．81
+该保护区鸟类资源开展了系统调查，报道如下。 隼科Falconidae 3 1．43
+鸡形目GALLIFOＲMES 松鸡科Tetraonidae 1 0．47
+雉科Phasianidae 6 2．86
+1 研究方法 鸻形目 鸻科Charadriidae 2 0．95
+CHAＲADAＲIIFOＲMES 鹬科Scolopacidae 8 3．81
+燕鸥科Sternidae 1 0．47
+2014 年4 月和9 月分两次对保护区鸟类资源 鸥科Laridae 3 1．43
+鸽形目COLUMBIFOＲMES 鸠鸽科Columbidae 5 2．38
+进行了调查。调查方法以线路法为主，辅以样点法 鹃形目CUCULIFOＲMES 杜鹃科Cuculidae 4 1．90
+鹦形目PSITTACIFOＲMES 鹦鹉科Psittacidae 1 0．47
+和访问法进行。样线的选取结合区域内地形地貌以
+雨燕目APODIFOＲMES 雨燕科Apodidae 3 1．43
+及植被分布特征，采用典型抽样法，按照平均每 8 鸮形目STＲIGIFOＲMES 鸱鸮科Strigidae 3 1．43
+戴胜目UPUPIFOＲMES 戴胜科Upupidae 1 0．47
+km2 左右设置一条样线，样线尽量覆盖保护区不同
+鴷形目PICIFOＲMES 啄木鸟科Picidae 4 1．90
+生境类型和不同海拔跨度，在保护区内设置若干样 非雀形目合计 19科 70 33．33
+雀形目PASSEＲIFOＲMES 百灵科Alaudidae 4 1．90
+线，样线长度在2 km～5 km之间。样点法是将保护 燕科Hirundinidae 4 1．90
+鶺鴒科Motacillidae 8 3．81
+区内的湖泊、较宽阔而水流缓慢的河流等设置为样
+山椒鸟科Campephagidae 3 1．43
+点，一个湖泊为一个样点，河流样点的长度不超过1 鹎科Pycnonotidae 1 0．47
+伯劳科Laniidae 3 1．43
+km。访问主要针对容易识别的大型雉类和雁鸭类， 鸦科Corvidae 8 3．81
+河乌科Cinclidae 2 0．95
+访问对象为以前从事过打猎活动的猎人及经常在保
+鹪鹩科Troglodytidae 1 0．47
+护区内从事放牧活动的对鸟类有识别经验的人。 岩鹨科Prunellidae 4 1．90
+鸫科Turdidae 21 10
+样线调查时的行走速度控制在1 km·h－1 ～2
+画眉科Timaliidae 14 6．67
+km·h－1，调查中对鸟种的确认通过望远镜观察、鸣 鸦雀科Paradoxomithidae 1 0．47
+莺科Sylviidae 12 5．71
+声识别和相机拍摄等方法进行。样方调查也用双筒 鶲科Muscicapinae 7 3．33
+扇尾莺科Cisticolidae 2 0．95
+望远镜进行直接观察。野外鸟类鉴别工具书包括
+椋鸟科Sturnidae 2 0．95
+《中国鸟类野外手册》和《中国鸟类图鉴》便携版等。 山雀科Paridae 8 3．81
+鳾科Sittidae 4 1．90
+长尾山雀科Aegithalidae 2 0．95
+2 结果
+旋壁雀科Tichodromidae 1 0．47
+旋木雀科Certhiidae 2 0．95
+啄花鸟科Dicaeidae 1 0．47
+花蜜鸟科Nectariniidae 2 0．95
+在保护区内，根据方法中的布线原则，并考虑保
+雀科Passeridae 4 1．90
+护区地形地貌的限制，在尽量利用当地现有小道的 燕雀科Fringillidae 17 8．09
+鵐科Emberizidae 2 0．95
+基础上，总计设置了调查样线12 条。另外，设置调 雀形目合计 27科 140 66．67
+合计15目 45科 210 100．00
+查样方8 个，访问以前的猎人和牧民10 余人。
+
+--- PAGE 3 ---
+3期 王疆评，等:四川下拥自然保护区鸟类资源调查 77
+2．2 居留型与区系 型鸟类共计28 种;针阔混交林类型鸟类共计19 种;
+根据对保护区鸟类居留类型的统计发现，保护 农田类型鸟类共计13 种; 最少为高山流石滩种类，
+区冬候鸟25 种，留鸟127 种，夏候鸟42 种，旅鸟16 仅8 种。( 见图3)
+种，各占比见图1。保护区的鸟类以留鸟为主。
+图1 下拥自然保护区鸟类居留型比例示意图
+Fig．1 The proportion of bird’s settlement in Xiayong Na- 图3 下拥自然保护区实际调查鸟类栖息生境对比示意
+ture Ｒeserve 图
+根据对鸟类区系分析得知，保护区鸟类古北界 Fig．3 The comparison of bird’s habitat in Xiayong Nature
+Ｒeserve through actual survey
+88 种，东洋界99 种，广布型23 种，占比见图2。古
+2．4 特有、保护及濒危鸟类
+北界中，全北型24 种，古北型39 种，东北型9 种，东
+根据《中国鸟类分类与分布名录》( 第二版) ( 郑
+北－华北型2 种，中亚型2 种，季风型2 种，高地型
+光美，2011) 一书中附录Ⅱ中国鸟类特有种名录中
+14 种;东洋界中，东洋型30 种，南中国型8 种，喜马
+所列鸟种，保护区共有中国特有鸟类8 种，占中国特
+拉雅－横断山型57 种。从分布比例来看，东洋界和
+有鸟类总种数76 种的10.53%，占保护区鸟类总种
+古北界的鸟种比例接近，以东洋界略占优势，表明该
+数的3.81%。
+区域鸟类区系成分属于两大区系成分的混合交汇地
+根据查阅相关资料得知，列入《濒危野生动植
+带。
+物种国际贸易公约》( 2013) CITES 附录Ⅰ的鸟类共
+3 种，占保护区鸟类总种数的1.43%，附录Ⅱ15 种，
+占7.14%。
+列入《中国物种红色名录》( 汪松，解炎，2009)
+中的鸟类，近危( NT) 9 种，占4.28%，易危( VU) 和
+濒危( EN) 各 1 种，分别占 0.47%，其余均为无危
+( LC) 。
+列入国家Ⅰ级保护鸟类共 4 种，占 1.90%，国
+家Ⅱ级保护 16 种，占 7.62%，四川省重点保护 7
+图2 下拥自然保护区鸟类区系比例示意图
+种，占3.33%。
+Fig．2 TheproportionofavifaunainXiayongNatureＲeserve
+2．3 生境类型 3 分析与讨论
+从保护区的植被分布特点来看，其间分布的鸟
+类按生境可划分为水域、农田、高山草甸、灌丛、阔叶 通过调查发现，保护区非雀形目中，雁形目鸭
+林、针叶林、针阔混交林和高山流石滩8 种类型。根 科、鸻形目鹬科和隼形目鹰科鸟种数占绝对优势;雀
+据实地调查，对野外工作中实际记录到的152 种鸟 形目中，鸫科优势明显，其次是燕雀科、画眉科和莺
+类进行统计发现，种类最多的为灌丛类型，在保护区 科。保护区海拔范围在2 100 m ～5 599 m，根据调
+主要包括河谷灌丛、川滇高山栎灌丛和高山杜鹃灌 查发现区内高山湖泊数量较多，但单个湖泊面积不
+丛，共计鸟类82 种; 其次为针叶林类型44 种; 阔叶 大，湖泊四周山峦陡峭，湖泊之间联系不大，部分湖
+林类型40 种;高山草甸类型鸟类共计38 种;水域类 泊有鱼虾分布，区域内水域成为部分过境水鸟的中
+
+--- PAGE 4 ---
+78 四 川 林 业 科 技 37卷
+转站，同时，也为其提供了良好的越冬和繁殖栖息 科、鸠鸽科、杜鹃科、雨燕科、啄木鸟科、山椒鸟科、鹎
+地，调查中未发现黑鹳、黑颈鹤和灰鹤等珍稀濒危涉 科、伯劳科、鸦科、鸫科、鹟科、画眉科、莺科、椋鸟科、
+禽，据当地人讲述，他们也未在保护区内见过这类涉 山雀科、长尾山雀科、啄花鸟科、花蜜鸟科、雀科和燕
+禽。由此可以判断，保护区虽然位于候鸟的迁徙通 雀科;针叶林中栖息活动的有鹰科、隼科、松鸡科、雉
+道上，但是在本区域南端直线距离40 km 左右的香 科、鸠鸽科、杜鹃科、鹦鹉科、啄木鸟科、鸦科、鹪鹩
+格里拉市纳帕海，是众多水鸟选择越冬的地方，由于 科、画眉科、莺科、山雀科、鳾科、长尾山雀科、旋壁雀
+相距不远，这类大型的珍稀涉禽可能直接飞越本区 科、旋木雀科和燕雀科。调查中发现在针叶林以及
+域抵达水草条件更为丰盛的纳帕海。从现场的情况 针叶林为主的针阔混交林林缘地带，山雀科和鳾科
+来看，保护区高海拔区域视野开阔，生境以高寒灌 鸟类种类较多且活动频繁; 高山草甸中栖息的有鹰
+丛、草甸和流石滩植被为主，为猛禽提供了更好的觅 科、隼科、雉科、鸠鸽科、杜鹃科、鸱鸮科、戴胜科、百
+食空间，利于其种群的良性发展。 灵科、鹡鸰科、鸦科、岩鹨科、鸫科、雀科和燕雀科;水
+对实际调查鸟类的统计分析中发现，在灌丛中 域附近栖息的种类有鸬鹚科、鹭科、鸭科、鸻科、鹬
+栖息活动的种类最多，高山流石滩最少，根据不同生 科、鸥科、鹡鸰科、河乌科和鸫科;针阔混交林中栖息
+境，其种类数量排序为灌丛 ＞针叶林 ＞阔叶林 ＞高 的种类有鹰科、鸠鸽科、啄木鸟科、山椒鸟科、鸦科、
+山草甸＞水域＞针阔混交林 ＞农田 ＞高山流石滩。 鸫科、鹟科、画眉科、莺科、椋鸟科、山雀科和长尾山
+保护区灌丛分为河谷灌丛和高山灌丛，分布范围广， 雀科;农田中栖息的种类有燕科、鹡鸰科、伯劳科、鸦
+灌丛种类丰富，其间栖息活动的有鹰科、隼科、松鸡 科、鸫科、椋鸟科、雀科和鵐科;高山流石滩中栖息的
+科、雉科、鸠鸽科、杜鹃科、雨燕科、戴胜科、百灵科、 种类有鹰科、雉科、岩鹨科和鸫科。
+燕科、鹡鸰科、鹎科、伯劳科、鹪鹩科、岩鹨科、鹟科、 通过统计分析，实地调查中发现的152 种鸟类
+鸫科、画眉科、莺科、扇尾莺科、椋鸟科、鸦雀科、山雀 隶属于44 科，大部分都是跨越多个生境栖息活动
+科、鳾科、旋壁雀科、啄花鸟科、花蜜鸟科、雀科、燕雀 的，其中鸫科和鹰科跨越的生境类型最多，共6 个，
+科和鵐科。调查中发现在保护区境内多条沟谷两侧 占保护区鸟类生境类型的75%，其次是鸦科和鸠鸽
+的杜鹃灌丛中燕雀科鸟类( 以朱雀类为主) 数量较 科，共5 个，占保护区鸟类生境类型的62.5%( 见图
+多，活动十分频繁; 阔叶林中栖息活动的有鹰科、隼 4) 。
+图4 下拥自然保护区实际调查各科鸟类跨越生境数示意
+Fig．4 The quantities of each family’s habitat in Xiayong Nature Ｒeserve through actual survey
+
+--- PAGE 5 ---
+3期 王疆评，等:四川下拥自然保护区鸟类资源调查 79
+保护区鸟类生境类型共8 种，根据调查结果分
+析发现，跨越的生境从1 种到6 种，未发现跨越7 种
+及以上的生境类型。在 1 种生境中栖息活动的有
+13 个科，其中水域类型占7 个科，是保护区内主要
+的单一生境类型;在两种生境中栖息活动的有11 个
+科;在3 种生境中栖息活动的有6 科;在4 种生境中
+栖息活动的有10 科;在5 种生境中栖息活动的有两
+科;在6 种生境中栖息活动的有两科。其中跨越1
+个生境类型、两个生境类型以及4 个生境类型鸟类
+科数达到10 个及以上，占实际调查科数的 77.3%
+图5 下拥自然保护区跨越不同生境数的鸟类科数示意
+( 见图5) 。
+Fig．5 The quantities of bird families among different habi-
+在调查时发现鸟类当时活动的区域环境即为其 tats in Xiayong Nature Ｒeserve
+栖息生境，这是本次统计分析的数据基础。从数据
+上看，保护区实际调查到的鸟类在科这一级别上，
+种数相当，以东洋界种类稍占优势，两大区系鸟类在
+70.5%均在两种和两种以上的生境中活动。
+此混杂交汇明显，从一个方面与区划相吻合。
+根据动物地理区划( 张荣祖，1999) ，保护区属 保护区内保护及濒危鸟类主要集中在隼形目、
+于东洋界西南区西南山地亚区，与古北界青藏区毗 鸮形目和鸡形目，其中隼形目和鸡形目的数量较多，
+临，总体位置接近古北界和东洋界的分界线，本次调 应加强关注和保护。四川下拥自然保护区的鸟类名
+查结果显示，保护区在东洋界和古北界分布的鸟类 录见附表。
+附表 四川下拥自然保护区鸟类名录
+保护 红色 数据 海拔 分布
+ID 目、科、种 居留型分布型 区系 特有种 IUCN CITES
+级别 名录 来源 (m) 生境
+一鸊鷉目PODICIPEDIFOＲMES
+1鸊鷉科Podicipedidae
+1 凤头鸊鷉Podicepscristatus W U 古 省 LC 资料
+二鹈形目PELECANIFOＲMES
+2鸬鹚科Phalacrocoracidae
+2 普通鸬鹚Phalacrocoraxcarbo P O 广 省 LC 调查 2160 WA
+三鹳形目CICONIIFOＲMES
+3鹭科Ardeidae
+3 池鹭Ardeolabacchus S W 东 LC 调查 2526～2738 WA
+4 白鹭Egrettagarzetta S W 东 LC 调查 2488 WA
+四雁形目ANSEＲIFOＲMES
+4鸭科Anatidae
+5 灰雁Anseranser P U 古 LC 资料
+6 斑头雁Anserindicus W P 古 LC 访问
+7 赤麻鸭Tadornaferruginea S U 古 LC 调查 2200～4410 WA
+8 绿头鸭Anasplatyrhynchos W C 古 LC 调查 4260 WA
+9 绿翅鸭Anascrecca W C 古 LC 调查 4260 WA
+10 斑嘴鸭Anaspoecilorhyncha S W 东 LC 资料
+11 赤颈鸭Anaspenelope W C 古 LC 资料
+12 琵嘴鸭Anasclypeata W C 古 LC 访问
+13 针尾鸭Anasacuta W C 古 LC 访问
+14 白眉鸭Anasquerquedula W U 古 LC 资料
+15 红头潜鸭Aythyaferina W C 古 LC 访问
+16 凤头潜鸭Aythyafuligula W U 古 LC 调查 2190 WA
+17 普通秋沙鸭Mergusmerganser W C 古 LC 调查 2120 WA
+五隼形目FALCONIFOＲMES
+5鹰科Accipitridae
+18 黑鸢Milvusmigrans Ｒ U 古 Ⅱ LC II 调查 2100～4300 ME，CO
+19 胡兀鹫Gypaetusbarbatus Ｒ O 广 Ⅰ LC II 调查 3200～5400 ME，FS
+20 高山兀鹫Gypshimalayensis Ｒ O 广 Ⅱ LC II 调查 2200～5100 ME，FS
+21 雀鹰Accipiternisus W U 古 Ⅱ LC II 访问
+22 苍鹰Accipitergentilisschvedowi S C 古 Ⅱ LC II 调查 2330～4025 SH，MI，BＲ，CO
+23 大鵟Buteohemilasius W D 古 Ⅱ LC II 调查 4240 ME，SH，CO
+24 普通鵟Buteobuteo W U 古 Ⅱ LC II 调查 3220 ME，SH，CO
+25 金雕Aquilachrysaetosdaphanea Ｒ C 古 Ⅰ LC II 调查 3980 BＲ，CO
+6隼科Falconidae
+
+--- PAGE 6 ---
+80 四 川 林 业 科 技 37卷
+保护 红色 数据 海拔 分布
+ID 目、科、种 居留型分布型 区系 特有种 IUCN CITES
+级别 名录 来源 (m) 生境
+26 红隼Falcotinnunculus Ｒ O 广 Ⅱ LC II 调查 3200 SH，BＲ
+27 猎隼Falcocherrug S C 古 Ⅱ LC II 调查 3420 SH，BＲ，CO
+28 游隼Falcoperegrinusperegrinator P C 古 Ⅱ LC Ⅰ 调查 2950 ME，SH
+六鸡形目GALLIFOＲMES
+7松鸡科Tetraonidae
+29 斑尾榛鸡Bonasasewerzowisecunda Ｒ H 东 U Ⅰ NT NT/2004 调查 3280～3758 CO，SH
+8雉科Phasianidae
+30 雪鹑Lerwalerwa Ｒ H 东 NT LC/2004 调查 4100～5300 ME，SH，FS
+31 黄喉雉鹑Tetraophasisszechenyii Ｒ H 东 U Ⅰ VU LC/2004 调查 2980～4100 CO
+32 藏雪鸡Tetraogallustibetanus Ｒ P 古 Ⅱ NT LC/2004 Ⅰ 调查 3500～4750 ME，FS
+33 高原山鹑Perdixhodgsoniae Ｒ H 东 LC 调查 3400～5120 ME，SH
+34 血雉Ithaginiscruentus Ｒ H 东 Ⅱ LC II 调查 3628～4240 SH，CO
+35 白马鸡Crossoptiloncrossoptilonlichiangense Ｒ H 东 U Ⅱ NT NT/2004 Ⅰ 调查 3600 SH，CO
+七鸻形目CHAＲADAＲIIFOＲMES
+9鸻科Charadriidae
+36 凤头麦鸡Vanellusvanellus W U 古 LC 访问
+37 环颈鸻Charadriusalexandrinus P O 广 LC 调查 2200 WA
+10鹬科Scolopacidae
+38 丘鹬Scolopaxrusticola W U 古 LC 调查 2300～2450 WA
+39 大沙锥Gallinagomegala P U 古 LC 调查 2350 WA
+40 孤沙锥Gallinagosolitaria P U 古 LC 调查 2350 WA
+41 针尾沙锥Gallinagostenura P U 古 LC 调查 2400～2640 WA
+42 红脚鹬Tringatotanus P U 古 LC 调查 3900～4300 WA
+43 白腰草鹬Tringaochropus W U 古 LC 调查 3870 WA
+44 林鹬Tringaglareola P U 古 LC 调查 3500～3760 WA
+45 矶鹬Actitishypoleucos P C 古 LC 调查 3670～4120 WA
+11燕鸥科Sternidae
+46 普通燕鸥Sternahirundo S C 古 省 LC 访问
+12鸥科Laridae
+47 红嘴鸥Larusridibundus W U 古 LC 调查 3000～4200 WA
+48 渔鸥Larusichthyaetus P D 古 LC 资料
+49 普通海鸥Laruscanuskamtschatschensis W C 古 LC 资料
+八鸽形目COLUMBIFOＲMES
+13鸠鸽科Columbidae
+50 岩鸽Columbarupestris Ｒ O 广 LC 调查 4160 ME
+51 雪鸽Columbaleuconota Ｒ H 东 LC 调查 4320 ME
+52 山斑鸠Streptopeliaorientalis Ｒ E 古 LC 调查 2200～3200 SH，BＲ，MI，CO
+53 火斑鸠Streptopeliatranquebarica Ｒ W 东 LC 访问
+54 斑林鸽Columbahodgsonii Ｒ H 东 LC 资料
+九鹃形目 CUCULIFOＲMES
+14杜鹃科Cuculidae
+55 大杜鹃Cuculuscanorus S O 广 LC 调查 2230～4300 ME，BＲ，CO
+56 中杜鹃Cuculussaturatus S M 古 LC 调查 2390～3100 BＲ，SH
+57 棕腹杜鹃Cuculusnisicolor S W 东 省 LC 调查 2270～2800 BＲ，SH
+58 翠金鹃Chrysococcyxmaculatus S W 东 LC 资料
+十鹦形目PSITTACIFOＲMES
+15鹦鹉科Psittacidae
+59 大紫胸鹦鹉Psittaculaderbiana Ｒ H 东 Ⅱ NT LC/2004 II 调查 2370～4000 CO
+十一鸮形目STＲIGIFOＲMES
+16鸱鸮科Strigidae
+60 纵纹腹小鸮Athenenoctua Ｒ U 古 Ⅱ LC II 调查 3900－4550 ME
+61 领角鸮Otuslettiaerythrocampe Ｒ W 东 Ⅱ LC II 访问
+62 雕鸮Bubobubohemachalanus Ｒ U 东 Ⅱ LC II 访问
+十二雨燕目APODIFOＲMES
+17雨燕科Apodidae
+63 白喉针尾雨燕Hirundapuscaudacutus Ｒ W 东 省 LC 调查 2200 SH
+64 白腰雨燕Apuspacificus S M 古 LC 资料
+65 小白腰雨燕Apusnipalensis Ｒ O 广 省 LC 调查 3999 SH，BＲ
+十三戴胜目UPUPIFOＲMEＲS
+18戴胜科Upupidae
+66 戴胜Upupaepops S O 广 LC 调查 2300～4350 ME，SH
+十四鴷形目 PICIFOＲMES
+19啄木鸟科Picidae
+67 大斑啄木鸟Picoidesmajor Ｒ U 古 LC 调查 3650 MI，BＲ，CO
+68 赤胸啄木鸟Dendrocoposcathphariuspernyii Ｒ H 东 LC 资料
+69 黑啄木鸟Dryocopusmartius Ｒ U 古 省 LC 访问
+70 灰头绿啄木鸟Picuscanus Ｒ U 古 LC 资料
+
+--- PAGE 7 ---
+3期 王疆评，等:四川下拥自然保护区鸟类资源调查 81
+保护 红色 数据 海拔 分布
+ID 目、科、种 居留型分布型 区系 特有种 IUCN CITES
+级别 名录 来源 (m) 生境
+十五雀形目PASSEＲIFOＲMES
+20百灵科Alaudidae
+71 长嘴百灵Melanocoryphamaxima Ｒ P 古 LC 调查 4120～4560 ME
+72 短趾百灵Calandrellacheleensis S O 广 LC 调查 3560～4420 ME，SH
+73 小云雀Alaudagulgula S W 东 LC 资料
+74 角百灵Eremophilaalpestris Ｒ C 古 LC 调查 3980～4460 ME
+21燕科Hiundidae
+75 岩燕Ptyonoprognerupestris S O 广 LC 资料
+76 崖沙燕Ｒipariariparia Ｒ C 古 LC 调查 2560 SH
+77 家燕Hirundorusticagutturalis S C 古 LC 调查 2100 FA
+78 金腰燕Hirundodaurica S O 广 LC 调查 2100～2400 FA
+22鹡鸰科Motacillidae
+79 白鹡鸰Motacillaalba Ｒ O 广 LC 调查 2100～4570 FA，WA，SH
+80 黄头鹡鸰Motacillacitreola S U 古 LC 访问
+81 黄鹡鸰Motacillaflava P U 古 LC 调查 4250 WA，ME
+82 灰鹡鸰Motacillacinerea P O 广 LC 调查 2660～4120 WA，ME
+83 树鹨Anthushodgsoni P M 古 LC 调查 2380～4000 SH
+84 粉红胸鹨Anthusroseatus Ｒ P 古 LC 调查 3870 ME，SH
+85 水鹨Anthusspinoletta W C 古 LC 资料
+86 山鹨Anthussylvanus Ｒ S 东 LC 资料
+23山椒鸟科Campephagidae
+87 长尾山椒鸟Pericrocotusethologus S H 东 LC 调查 2250 MI，BＲ，SH
+88 短嘴山椒鸟Pericrocotusbrevirostrisaffinis S H 东 LC 调查 2360 MI，BＲ，SH
+89 暗灰鹃鵙Coracinamelaschistos S W 东 LC 资料
+24鹎科Pycnonotidae
+90 黄臀鹎Pycnonotusxanthorrhous Ｒ W 东 LC 调查 2360 SH，BＲ
+25伯劳科Laniidae
+91 灰背伯劳Laniustephronotus S H 东 LC 调查 3370 FA，SH
+92 红尾伯劳Laniuscristatus S X 古 LC 调查 3150 SH，BＲ
+93 棕背伯劳Laniusschachschach Ｒ W 古 LC 调查 2570 FA，SH，BＲ
+26鸦科Corvidae
+94 松鸦Garrulusglandarius Ｒ U 古 LC 调查 3370 MI，BＲ，CO
+LC/
+95 喜鹊Picapica Ｒ C 古 NT 调查 2360～4450 FA，ME
+2004
+96 红嘴山鸦Pyrrhocoraxpyrrhocorax Ｒ O 广 LC 调查 4200～4600 ME
+97 达乌里寒鸦Corvusdauuricus Ｒ U 古 LC 调查 3600～4650 ME
+98 大嘴乌鸦Corvusmacrorhynchos Ｒ E 古 LC 调查 2570～4490 FA，ME
+99 小嘴乌鸦Corvuscorone P C 古 LC 调查 3980 ME
+100 白颈鸦Corvustorquatus Ｒ S 东 LC 资料
+101 渡鸦Corvescorax S U 古 LC 访问
+27河乌科Cinclidae
+102 河乌Cincluscinclus Ｒ O 广 LC 调查 2460～4150 WA
+103 褐河乌Cincluspallasii Ｒ W 东 LC 调查 2200～3050 WA
+28鹪鹩科Troglodytidae
+104 鹪鹩Troglodytestroglodytes Ｒ C 古 LC 调查 4150 CO，SH
+29岩鹨科Prunellidae
+105 鸲岩鹨Prunellarubeculoides Ｒ I 古 LC 调查 4200 ME，FS
+106 棕胸岩鹨Prunellastrophiata Ｒ H 东 LC 调查 3370～4150 ME，SH
+107 领岩鹨Prunellacollarisnipalensis Ｒ U 古 LC 调查 4680 ME，FS
+108 栗背岩鹨Prunellaimmaculata Ｒ H 东 LC 调查 2850 ME，FS
+30鸫科Turdidae
+109 红胁蓝尾鸲Tarsigercyanurus S M 古 LC 调查 3300～4520 SH
+110 白腹短翅鸲Hodgsoniusphaenicuroides Ｒ H 东 LC 调查 4055 SH
+111 蓝大翅鸲Grandalacoelicolor Ｒ H 东 LC 调查 4150 ME，SH，FS
+112 赭红尾鸲Phoenicurusochruros S O 广 LC 调查 4100～4520 ME
+113 黑喉红尾鸲Phoenicurushodgsoni Ｒ H 东 LC 调查 3370～3620 ME，SH
+114 北红尾鸲Phoenicurusauroreus W M 古 LC 调查 2670 MI，SH
+115 红腹红尾鸲Phoenicuruserythrogaster W I 古 LC 调查 4460 SH
+116 蓝额红尾鸲Phoenicurusfrontalis Ｒ H 东 LC 调查 4150 ME，SH
+117 红尾水鸲Phoenicurusfuliginosus Ｒ W 东 LC 调查 2460～4100 WA
+118 白顶溪鸲Chaimarrornisleucocephalus Ｒ H 东 LC 调查 3380～3620 WA
+119 白眉林鸲Tarsigerindicusyunnanensis Ｒ H 东 LC 资料
+120 栗腹歌鸲Lusciniabrunnea Ｒ H 东 LC 资料
+121 蓝矶鸫Monticolasolitarius Ｒ O 广 LC 调查 4160 MI，SH，BＲ
+122 紫啸鸫Myophonuscaeruleus Ｒ W 东 LC 调查 3250 WA，SH
+123 斑背燕尾Enicurusmaculatus Ｒ W 东 LC 调查 3300 WA
+124 小燕尾Enicurusscouleri Ｒ S 东 LC 调查 3500 WA
+125 乌鸫Turdusmerulamandarinus Ｒ O 广 LC 调查 2460～3890 MI，SH，BＲ
+
+--- PAGE 8 ---
+82 四 川 林 业 科 技 37卷
+保护 红色 数据 海拔 分布
+ID 目、科、种 居留型分布型 区系 特有种 IUCN CITES
+级别 名录 来源 (m) 生境
+126 黑喉石即Saxicolatorquataprzewalskii S O 广 LC 调查 2260 FA，SH
+127 灰林即Saxicolaferreusharingtoni Ｒ W 东 LC 调查 2130～3250 FA，SH
+128 灰头鸫Turdusrubrocanus Ｒ H 东 LC 调查 2850～3600 MI，SH，BＲ
+129 棕背黑头鸫Turduskessleri Ｒ H 东 LC 调查 4150 ME
+31鹟科Musiccapidae
+130 乌鹟Muscicapasibirica S M 古 LC 资料
+131 橙胸姬鹟Ficedulastrophiata S W 东 LC 调查 2860 MI，SH，BＲ
+132 锈胸蓝姬鹟Ficedulahodgsonii S H 东 LC 调查 3670 MI，BＲ
+133 红喉姬鹟Ficedulaalbicilla P U 东 LC 资料
+134 灰蓝姬鹟Ficedulatricolordiversa S H 东 LC 资料
+135 棕腹仙鹟Niltavasundaradenotata S H 东 LC 访问
+136 方尾鹟Culicicapaceylonensis S W 东 LC 访问
+32画眉科Timaliidae
+137 灰翅噪鹛Garrulaxcineraceuscinereiceps Ｒ S 东 LC 资料
+138 黑顶噪鹛Garrulaxaffinismuliensis Ｒ H 东 LC 资料
+139 棕颈钩嘴鹛Pomatorhinusruficollissimiles Ｒ W 东 LC 调查 3380 SH
+140 大噪鹛Garrulaxmaximus Ｒ H 东 U LC 调查 4150 SH，BＲ，CO
+141 橙翅噪鹛Garrulaxelliotii Ｒ H 东 U LC 调查 3370～4150 SH，BＲ，CO
+142 小鳞胸鷦鹛Pnoepygapusilla Ｒ W 东 LC 资料
+143 长尾鹩鹛Spelaeornischocolatinusreptatus Ｒ W 东 LC 资料
+144 宝兴鹛雀Moupiniapoecilotis Ｒ H 东 U NT NT/1994 资料
+145 白领凤鹛Yuhinadiademataampelina Ｒ H 东 LC 调查 3370～3620 MI，SH，BＲ
+146 矛纹草鹛Babaxlanceolatus Ｒ S 东 LC 调查 3860 SH
+147 金胸雀鹛Alcippechrysotis Ｒ H 东 LC 资料
+148 白眉雀鹛Alcippevinipectus Ｒ H 东 LC 调查 3620 BＲ，SH
+149 灰眶雀鹛Alcippemorrisonia Ｒ W 东 LC 调查 3230 SH
+150 高山雀鹛Alcippestriaticollis Ｒ H 东 U LC 调查 4120 SH
+33莺科Silviidae
+151 强脚树莺Cettiafortipesdavidiana Ｒ W 东 LC 调查 2340 SH，CO
+152 褐柳莺Phylloscopusfuscatus W M 古 LC 调查 3850 SH，CO
+153 黄腹柳莺Phylloscopusaffinis S H 东 LC 调查 3200～4680 SH，BＲ
+154 棕眉柳莺Phylloscopusarmandii S H 东 LC 资料
+155 橙斑翅柳莺Phylloscopuspulcher Ｒ H 东 LC 调查 3390 SH，BＲ，CO
+156 淡黄腰柳莺Phylloscopuschloronotus S M 古 LC 资料
+157 暗绿柳莺Phylloscopustrochiloides S U 古 LC 资料
+158 冠纹柳莺Phylloscopusreguloides S W 东 LC 调查 3370～4300 MI，SH，BＲ
+159 大树莺Cettiamajor Ｒ H 东 LC 资料
+160 金眶鹟莺Seicercusburkii S S 东 LC 资料
+161 花彩雀莺Leptopoecilesophiaeobscura S P 古 LC 资料
+162 凤头雀莺Leptopoecileelegans Ｒ H 东 U LC NT/1994 资料
+34扇尾莺科Cisticolidae
+163 山鹪莺Priniacrinigeracatharia Ｒ W 东 LC 调查 2650 SH
+164 黑喉山鹪莺Priniaatrogularissuperciliaris Ｒ W 东 LC 调查 2780 SH
+35椋鸟科Sturnidae
+165 灰头椋鸟Sturniamalabaricanemoricolus Ｒ W 东 LC 调查 2890
+166 灰椋鸟Sturnuscineraceus W X 东 LC 调查 3240
+36鸦雀科Paradoxomithidae
+167 黄额鸦雀Paradoxornisfulvifrons Ｒ H 东 LC 资料
+37山雀科Paridae
+168 沼泽山雀Paruspalustrisdejeani Ｒ U 古 LC 调查 3380 CO
+169 褐头山雀Parussongarusweigoldicus Ｒ C 古 LC 调查 4120 SH，CO
+170 煤山雀Parusater Ｒ U 古 LC 调查 3320～4150 CO
+171 褐冠山雀Parusdichrous Ｒ H 东 LC 调查 3680 CO
+172 黑冠山雀Parusrubidiventris Ｒ H 东 LC 调查 4230 CO
+173 大山雀Parusmajor Ｒ O 广 LC 调查 3380～3660 SH，BＲ，MI，CO
+174 绿背山雀Parusmonticolus Ｒ W 东 LC 调查 3570 SH，BＲ，MI，CO
+175 黄眉林雀Sylviparusmodestus Ｒ W 东 LC 调查 3480 MI，BＲ，CO
+38鳾科Sittidae
+176 白脸鳾Sittaleucopsis Ｒ H 东 LC 调查 3880 SH，CO
+177 栗臀鳾Sittanagaensismontium Ｒ U 古 LC 调查 2550 CO
+178 普通鳾Sittaeuropaeasinensis Ｒ U 古 LC 调查 3310 CO
+179 滇鳾Sittayunnanensis Ｒ H 东 NT NT/2004 调查 3250 CO
+39长尾山雀科Aegithalidae
+180 银喉长尾山雀Aegithaloscaudatusvinaceus Ｒ U 古 LC 调查 3380 BＲ，CO，MI
+181 黑眉长尾山雀Aegithalosbonvaloti Ｒ H 东 LC 调查 3160 BＲ，CO，MI
+40旋壁雀科 Tichodromidae
+182 红翅旋壁雀Tichodromamuraria Ｒ O 广 LC 调查 3980 SH，CO
+
+--- PAGE 9 ---
+3期 王疆评，等:四川下拥自然保护区鸟类资源调查 83
+保护 红色 数据 海拔 分布
+ID 目、科、种 居留型分布型 区系 特有种 IUCN CITES
+级别 名录 来源 (m) 生境
+41旋木雀科Certhiidae
+183 欧亚旋木雀Certhiafamiliariskhamensis Ｒ C 古 LC 调查 3630 CO
+184 高山旋木雀Certhiahimalayana Ｒ H 东 LC 调查 3790 CO
+42啄花鸟科Dicaeidae
+185 黄腹啄花鸟Dicaeummelanoxanthum Ｒ H 东 LC 调查 3590 BＲ，SH
+43花蜜鸟科Nectariniidae
+186 蓝喉太阳鸟Aethopygagouldiaedabryii Ｒ S 东 LC 调查 3710 SH，BＲ
+187 绿喉太阳鸟Aethopyganipalensis Ｒ H 东 LC 资料
+44雀科Passeridae
+188 麻雀Passermontanustibetanus Ｒ U 古 NT LC/2004 调查 2200～3600 FA，SH，BＲ
+189 山麻雀Passerrutilansbatangensisi Ｒ S 东 EN 调查 2670 FA，SH
+190 白腰雪雀Onychostruthustaczanowskii Ｒ I 古 LC 调查 4680 ME
+191 棕颈雪雀Pyrgilaudaruficollis Ｒ I 古 LC 调查 4500 ME
+45燕雀科 Fringillidae
+192 藏黄雀Carduelisthibetana Ｒ H 东 LC 资料
+黄嘴朱顶雀Carduelis flavirostris miniaken-
+193 Ｒ U 东 LC 资料
+sis
+194 林岭雀Leucostictenemoricola Ｒ I 古 LC 调查 4150 ME，SH
+195 高山岭雀Leucostictebrandtiwalteri Ｒ I 古 LC 调查 4380～5100 ME，SH
+196 暗胸朱雀Carpodacusnipalensis Ｒ H 东 LC 调查 3460 SH，CO
+197 普通朱雀Carpodacuserythrinusroseatus S U 古 LC 调查 2680～3660 SH，CO
+198 红眉朱雀Carpodacuspulcherrimus Ｒ H 东 LC 调查 4360 SH，CO
+199 曙红朱雀Carpodacuseos Ｒ H 东 LC 调查 4400 SH，BＲ
+200 酒红朱雀Carpodacusvinaceus Ｒ H 东 LC 调查 3190 SH，BＲ
+201 白眉朱雀Carpodacusthura Ｒ H 东 LC 调查 2830～3580 SH，CO
+拟大朱雀 Carpodacus rubicilloides rubicil-
+202 Ｒ I 古 LC 调查 3500～4700 SH，CO
+loides
+203 红胸朱雀Carpodacuspuniceussikangensis Ｒ I 古 LC 资料
+204 斑翅朱雀Carpodacustrifasciatus Ｒ H 东 LC 调查 2690 SH，BＲ
+205 长尾雀Uragussibiricushenrici Ｒ M 古 LC 资料
+206 红交嘴雀Loxiacurvirostrahimalayensis Ｒ C 东 LC 资料
+207 灰头灰雀Pyrrhulaerythaca Ｒ H 东 LC 调查 2450～3870 SH，BＲ
+208 白斑翅拟蜡嘴雀Mycerobascarnipes Ｒ I 古 LC 调查 2630～4300 SH，CO
+46鹀科Fringillidae
+209 戈氏岩鹀Emberizagodlewskiikhamensis Ｒ O 广 LC 调查 3890 FA，SH
+210 小鹀Emberizapusilla W U 古 LC 调查 2580 FA，SH
+表注:区系中，广－广布种，古－古北界，东－东洋界;分布型中，H－喜马拉雅－横断山型，S－南中国型，W－东洋型，E－季风型，P/I－高地型，M－东北
+型，U－古北型，C－全北型，X－东北－华北型，D－中亚型，O－广布型;保护级别中，I－国家一级保护鸟类，II－国家二级保护鸟类，省－四川国家保护
+鸟类;居留型中，Ｒ－留鸟，S－夏候鸟，W－冬候鸟，M－旅鸟;红色名录中，根据《中国物种红色名录》，LC指无危，NT指近危，VU指易危，EN指濒危;IU-
+CN一栏中，LC/2004，指2004年该种被IUCN列入无危;VU/2004，指2004年该种被IUCN列入易危;NT/1994(2004)，指1994(2004)年该种曾被IUCN列
+入近危;CITES一栏中，Ⅰ指《濒危野生动植物种国际贸易公约》中列入附录Ⅰ，Ⅱ指列入附录Ⅱ;数据来源一栏中，参考资料来源于《四川省竹巴笼自然
+保护区综合科学考察报告》(内部资料)、《四川亚丁国家级自然保护区综合科学考察报告》(内部资料)、《横断山区鸟类志》、《四川鸟类原色图鉴》、《中
+国鸟类野外手册》和《中国鸟类分类与分布名录第二版》等著作;分布生境一栏中，WA－水域，FA－农田，ME－高山草甸，SH－灌丛，BＲ－阔叶林，CO－
+针叶林，MI－针阔混交林，FS－高山流石滩。
+鸟类资源调查［J］．四川动物，2009，28(3):458～461．
+参考文献:
+［6］ 牛俊英，马朝红，吴跃峰，等．河南黄河湿地国家级自然保护区
+鸟类资源调查［J］．四川动物，2009，28(3):462～467．
+［1］ 郑光美．中国鸟类分类与分布名录(第二版) ［M］．北京:科学
+［7］ 张荣祖．中国动物地理［M］．北京:科学出版社，1999．
+出版社，2011．
+［8］ 唐蟾珠．横断山区鸟类［M］．北京:科学出版社，1996．
+［2］ 汪松，解炎．中国物种红色名录［M］．北京:高等教育出版社，
+［9］ 何瑞松，周伟，马壮，等．得荣县志［M］．成都:四川科学技术出
+2009．
+版社，2009．
+［3］ 徐雨，冉江洪，岳碧松．四川省鸟类种数的最新统计［J］．四川
+［10］ 喻国庆．生物多样性调查与评价［M］．昆明:云南科技出版
+动物，2008，27(3):429～431．
+社，2007．
+［4］ 李小燕，杨磊，李东洋，等．广东莲花山白盆珠省级自然保护区
+［11］ 李桂垣．四川鸟类原色图鉴［M］．北京:中国林业出版社，
+鸟类资源调查［J］．四川动物，2012，31(4):650～654．
+1993．
+［5］ 李宏群，廉振民，陈存根．陕西延安黄龙山褐马鸡自然保护区
+

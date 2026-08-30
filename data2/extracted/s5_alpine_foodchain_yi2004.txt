@@ -1,0 +1,587 @@
+动 物 学 研 究 2003Feb．25（1）：1～6 CN53－1040／Q ISSN0254－5853
+Zoological Research
+高寒草甸生态系统食物链结构分析－－－
+来自稳定性碳同位素的证据
+易现峰张晓爱李来兴李明财赵 亮
+（中国科学院西北高原生物研究所青海西宁 ）
+810001
+摘要： 稳定性同位素技术应用于生态系统物质流动和食物链营养关系的研究方法 是基于生物体内天然存
+
+在的同位素比值与它们食物密切相关这一原理建立起来的 即将生物体内的稳定性同位素比值 如 13 作为一
+。 （ δ C）
+自然标记 根据物种间该值的相对差异 追踪生态系统中的主要物质 如碳源 的来源和物质流动 于 年
+  （ ） 。 2002 4～
+月测定了高寒草甸生态系统主要生物群落中物种的稳定性碳同位素比值 13 依据得到的系统的富集因子
+8 （δ C）
+分析并确定了所测物种间的取食与被取食关系 结果发现 高寒草甸生态系统由 条主要的食
+（1∙05±0∙45）‰ 。 ： 5
+物链构成 其中 条为 植物 小型哺乳类 食肉兽 猛禽 的三节点食物链 条为 植物 牲畜和植物 植食性
+ 1 “ → → ／ ” 2 “ → →
+鸟类 的二节点食物链 条分别为 植物 昆虫 雀形目鸟类 猛禽 食肉兽 和 植物 昆虫 两栖类 猛禽
+” 2 “ → → → ／ ” “ → → → ／
+食肉兽 的四节点食物链 系统食物链的最大长度为 与系统的最大节点数相近 表明稳定性碳同位素可以
+” ； 3∙53 。
+作为分析高寒草甸生态系统食物网和食物链结构以及食物链长度的有效代理
+（proxy）。
+关键词 稳定性碳同位素 高寒草甸 食物网 食物链
+： ； ； ；
+中图分类号 文献标识码 文章编号
+：Q958∙12 ：A ：0254－5853（2004）01－0001－06
+Analysis on Food Web Structure in Alpine Meadow
+Ecosystem： Evidence from Stable Carbon
+Isotope Signatures
+YI Xian-fengZHANG Xiao-aiLI La-i xingLI Ming-caiZHAO Liang
+（NorthwestInstituteof PlateauBiologytheChineseAcademyofSciencesXining China）
+810001
+Abstract：
+The stable isotope approach is based onthefact that naturally occurringstableisotope ratios in consumer
+13 12
+tissues can be relatedto those in consumersʾdiets．Changes inorfractionation ofstable carbon isotope ratios （ C／
+C）occurwithtrophic level and are of the order of1‰－2‰．Thusisotope measurement of consumersʾtissues can re-
+veal information about theiringestedfoodsin ecosystemsthat arerelatively simple．Determinationof stable carbonisotope
+signatures inthe alpinemeadow ecosystem demonstrated that the ecosystem was composed of five mainfood chainsone
+wasthree-nodedfood chain characterized by “plants →smallmammals →raptors （or carnivorousmammals）”；two each
+weretwo-noded characterized by “plants →vegetarian passerine birds or livestock”；and two each were four-noded and
+composed of “plants →insects →passerinebirds →raptors （orcarnivorousmammals）”or “plants →insects →amphib-
+ians →raptors （or carnivorous mammals）”respectively．The maximum length of food chain in the alpine meadow e-
+cosystem was3∙53whichwasgrossly equaltomaximum nodenumberi∙e∙4．Insummarystablecarbonisotopera-
+tios can be used as a proxy to analyzefood chains andfoodwebs inthe alpinemeadow ecosystems．
+Key words：
+Stable carbon isotope；Alpinemeadow；Foodweb；Food chain
+食物网 是多种生物及其取食对象 者构成的复杂的网状结构 所谓捕食者是指至少取
+（food web） 。
+的集合 是由捕食者和被捕食者或取食者与被取食 食一种生物的物种 被捕食者是指至少被另一种生
+ ；
+收稿日期 接受日期
+● ：2003－06－23； ：2003－10－27
+基金项目 国家自然科学基金资助项目
+： （30270217）
+●
+动 物 学 研 究 卷
+2 25
+物取食的物种 食物网直接反映生态系统的结构和 全年平均气温 没有明显的四季
+。 3200m。 －1∙7℃
+功能 因此 研究其结构是一个十分重要而复杂的 之分 只有冷暖两季 属高原大陆性气候 站区植
+    。
+问题 也是生态系统学的一大难题 物以禾本科 菊科 龙胆科和毛茛科最多 其次为
+ （Zhang et al 、 、 
+食物网的真正结构或功能 不易通过直接 莎草科 蔷薇科和豆科 但莎草科的嵩草属植物为
+1999）。  、 
+观察生物觅食 胃容物或粪便分析而决定 而且这 该地区高寒草甸的优势种群 植被类型主要有高寒
+、  。
+只能反映出短暂的营养关系 灌丛 高寒草甸
+。 （alpine shrub）、 （alpine meadow）
+由于环境中稳定性同位素组成有差异 以及生 和沼泽草甸 站区主要动物种群
+ （swamp meadow）。
+物在生理代谢过程中所产生的同位素分馏 包括小型哺乳类 高原鼠兔 根田鼠 高原鼢鼠
+（frac- （ 、 、
+生物体内的稳定性同位素比值可作为一 等 雀形目鸟类 小云雀 角百灵 高山岭雀以
+tionation） ）、 （ 、 、
+自然的标记 用来示踪营养物质在生态系中的流动 及朱顶雀等 以及食肉类 香鼬 艾虎和大
+ ） （ 、 ）
+在 等
+（Peterson et al1985；Hobson＆Welch1992）。 。
+生物学领域中常被应用的稳定性同位素有碳 氮及 1∙2 生物群落稳定性碳同位素比值 （δ13C） 的测
+、
+硫元素等 在生态系统中 生产者的稳定性碳同位 定
+。 
+素比值 相对于生态系统中其他消费者的 于 年 月 选取高寒草甸生态系统主
+13 13
+（δ C） δ 2002 4～8 
+的差异 可用于追踪生态系统中的主要物质 碳 要植物及部分动物样品 鸟类以胸肌作样品 哺乳
+C  （  
+源 的来源和物质流动 则常用于食物网中生 类以后退肌肉作样品 昆虫及两栖类则取全体 所
+15
+） 。δ N  。
+物的营养阶层分析 较高意味着营养阶层的提 有样品经恒温干燥箱 烘干至恒重 充分
+15
+δ N 60～80℃ 
+升 与 13 一起来示踪营养物质的流动 研磨 过 目筛备用 以 PLU
+ δ C （Peterson  100 。 Finnigan MAT DELTA
+在研究生态系统中的食物网及物质 同位素质谱仪和元素分析仪进行测定 二者的
+et al1985）。 SXL 
+流动上 相对于传统的消化道内含物分析 稳定性 操作界面为 制备条件 氧化炉温度为
+  ConF Ⅲ。 ：
+同位素能提供更迅速 客观的分析 稳定性同位素 还原炉温度为 柱温为 产生
+、 。 900℃ 680℃ 40℃。
+分析为研究食物网结构提供了一种特别的方式 显 的 在真空管中经纯化注入比集运量质谱仪
+ CO2
+示出长期以及短期内生物的食性变化 建立营养流 进行测定 以
+ （Finnegan MatBermenGermany） 。
+动过程以及生物在食物网及营养层的地位 随着生 样品同位素组成与标准品之间的偏移来相对测定碳
+。
+物觅食习性的不同 稳定性碳 氮同位素比值随其 的同位素组成
+ 、 ：
+在营养层的位置以特定方式增加 因此可用以分析
+ δRsample （‰） ＝ （Rsample－Rstandard）／Rstandard×
+食物的来源和组成 近年来 稳定性碳 氮同位素
+。  、 1000 （Cerling＆Harris1999）
+技术已广泛被应用于海洋及河口的营养层间营养流 其中 为被测材料的碳同位素组成 为
+δRsample ；Rsample
+动的研究上 被测样品 也即样品中
+13 12
+（Hobson ＆ Welch1992；Peterson et Csample／ Csample CO245／44
+并描绘出该生态系统的食物链及营养 的绝对同位素比 为 也
+13 12
+al1985） ；Rstandard Cstandard／ Cstandard
+流动关系 在国内 稳定性碳技术同位素已经被应 即标准品中 的绝对同位素比 这里的标
+。  CO245／44 。
+用于海洋生态系统的结构分析上 准品是取自美国 河区
+（Cai et al1999 South Carolina Pee Dee River
+并取得了理想的结 的一种古生物化石 美洲拟箭石 各物种的碳同
+2001ab；Guo et al2002） －－－ 。
+果 然而 高寒草甸生态系统虽已研究 余年 位素比值见表 物种碳同位素比值月间变化不明
+。  20  1。
+但还未对食物网进行过专门的研究 因而缺乏定量 显 但成体与幼体间差异显著
+  。
+分析的资料 本文试图以稳定性碳同位素技术分析 1∙3 碳同位素富集因子的获得
+。
+高寒草甸生态系统简单的食物链结构 由高原鼠兔 根田鼠 高原鼢鼠 高原兔后腿
+。 、 、 、
+肌肉和它们的胃容物间以及山生柳和其上专一寄生
+1 材料与方法
+的一种鳞翅目幼虫的稳定性碳同位素比值差异平均
+1∙1 研究区域概况 后得到碳同位素富集因子 为
+ （1∙05±0∙45）‰
+本项研究在中国科学院海北高寒草甸生态系统 表
+（ 2）。
+定位实验站进行 该站位于青藏高原东北部 北纬 1∙4 食物链营养关系分析
+。 
+东经 平均海拔 主要依赖于稳定性碳同位素分析 并
+37°29′～37°45′ 101°12′～101°33′ （SCIA）
+期 易现峰等 高寒草甸生态系统食物链结构分析 来自稳定性碳同位素的证据
+1 ： －－－ 3
+辅以胃容物分析 即通过胃容物所获得的
+13 顶极物种 13 初级生产者
+（SCA） FCL ＝ （δ C －δ C ）／1∙05‰
+部分食物信息 并比较两种可能存在取食与被取食 式中 指食物链的长度 为顶极物
+ FCL ；δ 13 C 顶极物种
+的生物间的碳同位素差异 与营养级间的碳同位素 种的稳定性碳同位素比值 为初级生产
+ ；δ 13 C 初级生产者
+富集因子 相比较 依据 者的稳定性碳同位素比值 是本次实验测定
+（1∙05±0∙45）‰ 。 DeNiro ＆ ；1∙05‰
+报道的动物与其食物间的碳 的碳同位素富集因子
+Epstein （19781981） 。
+同位素富集因子为 我们将所得的富集
+1‰～2‰ 2 结果与分析
+因子上下各波动 即若二者差异在
+0∙45‰ 0∙60‰
+范围波动 则可认定二者之间存在取食与 2∙1 食物链构成
+～1∙50‰ 
+被取食的营养关系 相反 若二者差异不在此范围 图 所示的是由生物稳定性碳同位素分布特征
+；  1
+之内或差异较大 则可认定二者之间不存在 或存 所得出的高寒草甸简单的食物网结构
+ （ （patterns） 
+在微弱的 取食与被取食的营养关系 其中可离解出 种具有不同节点 的食物
+） 。 5 （node）
+1∙5 食物链长度计算 链 即
+ ：
+食物链的长度按下述公式计算 植物 含种子 牲畜和植物 植食性鸟
+： 1． （ ）→ →
+表1 高寒草甸生态系统生物的碳同位素模式
+Table1 Stable carbonisotope patterns inthe alpine meadow ecosystem X±SD
+物种 Species 取样时间 Samplingtime 样本数 No∙of samples δ 13 C （‰）
+藏牦牛 Bosgrunniens
+2002．06 2 －25∙50±0∙03
+藏系绵羊 Ovis ammonhodgsoni
+2002．06 2 －24∙92±0∙10
+艾虎 Mustelaeversmanni
+2002．07 2 －23∙90±0∙18
+高原兔Lepusoiostolus
+2002．08 2 －24∙67±0∙11
+高原鼠兔 Ochotonacurzoniae
+2002．05 4 －25∙07±0∙55
+2002．07 3 －24∙77±0∙04
+高原鼢鼠 Myospalaxfontanierii
+2002．04 4 －25∙78±0∙36
+根田鼠 Microtusoeconomus
+2002．05 4 －25∙48±0∙01
+2002．07 3 －25∙92±0∙44
+2002．07 3 ∗ －25∙99±0∙14
+大 Buteohemilasius
+2002．04 2 －22∙80±0∙69
+角百灵 Eremophilaalpestris
+2002．04 3 －24∙18±0∙28
+2002．07 3 －24∙48±0∙08
+2002．07 2 ∗ －26∙08±0∙32
+长嘴百灵 Melanocoryphamaxima
+2002．04 4 －24∙54±0∙32
+黄嘴朱顶雀Acanthisflavirostri
+2002．07 2 －26∙25±0∙13
+2002．07 2 ∗ －26∙69±0∙10
+小云雀Alaudagulgula
+2002．05 2 －23∙76±0∙32
+2002．07 2 ∗ －26∙52±0∙07
+朱 Anthusroseatus
+2002．07 1 －24∙35
+2002．07 2 ∗ －25∙04±0∙15
+赭红尾鸲 Phoenicurusochruros
+2002．07 2 －23∙83±0∙04
+2002．07 3 ∗ －26∙83±0∙14
+粉红胸鹨Anthusroseatus
+2002．08 1 －24∙16
+褐背拟地鸦 Pseudopodoceshumilis
+2002．07 5 －24∙25±0∙28
+2002．06 2 ∗ －24∙60±0∙21
+黄头 Motacillacitreola
+2002．07 3 －23∙46±0∙08
+2002．07 2 ∗ －26∙62±0∙21
+鸲岩鹨 Prunellidaerubeculoides
+2002．04 2 －24∙90±0∙07
+2002．07 2 ∗ －25∙47±0∙13
+树麻雀 Passermontanus
+2002．07 3 －24∙16±0∙07
+中国林蛙 Ranatemporaria
+2002．07 4 －24∙11±0∙02
+中华大蟾蜍 Bufobufo
+2002．07 1 －24∙22
+∗ 幼体
+（Young）
+动 物 学 研 究 卷
+4 25
+表2 高寒草甸生态系统碳同位素的富集因子
+Table2 Stable carbonisotope enrichments inthe alpine meadow ecosystem X±SD
+13
+δC （‰）
+物种 肌肉 或叶片 胃容物
+Species （ ）
+Muscle （orLeaf） Stomachcontents
+根田鼠 Microtusoeconomus
+－25∙48±0∙01 －26∙45±0∙19
+高原兔Lepusoiostolus
+－24∙67±0∙11 －26∙14±0∙12
+高原鼠兔 Ochotonacurzoniae
+－24∙77±0∙04 －26∙77±0∙14
+高原鼢鼠 Myospalaxfontanierii
+－25∙78±0∙36 －26∙02±0∙22
+山生柳Salixoritrepha
+－25∙82
+专性寄生鳞翅目幼虫 Salixoritrepha
+Lepidopteralarvaparasiteon －25∙23±0∙05
+平均值
+Average －25∙19±0∙37 －26∙24±0∙30
+富集效应
+Enrichment 1∙05±0∙45
+类两个二节点食物链 alpestris 小 云 雀 Alauda gulgula 鸲 岩 鹨
+）、 （ ）、
+这两个链最短 其中的牲畜主要包括马 藏牦 Prunellidae rubeculoides 朱 Anthus roseatus
+ 、 （ ）、 （ ）、
+牛及藏系绵羊等 它们完全生活在人类控制的系统 树麻雀 Passer montanus 白腰雪雀 Montif-
+ （ ）、 （
+当中 可认为是没有天敌的物种 而高寒草甸唯一 ringillataczanowskii 和棕颈雪雀 Montifringilla ru-
+ ； ） （
+的植食性鸟类 黄嘴朱顶雀 Acanthis flavirostris ficollis 等 和食肉性鸟类 如灰砂燕 Hirundo
+－－－ （ ） ） ］ ［ （
+的栖息环境和繁殖地点主要在山生柳以及鲜卑花的 griseopyga 赭红尾鸲 Phoenicurus ochruros 黄
+）、 （ ）、
+灌丛枝杈间 很少受到小型食肉兽 如香鼬 头 Motacilla citreola 褐背拟地鸦 Pseu-
+  （ ）、 （
+Mustela altaica 和艾虎 Mustela eversmanni 的 dopodoces humilis 主要的食物来源 由稳定性碳
+（ ） （ ） ）］ 。
+捕食 因为这二者主要栖息在高寒草甸的鼠类洞穴 同位素比值可以看出 大 主要捕食成体鸟类 而
+  
+中 且主要以小型哺乳类高原鼠兔 Ochotona cur- 香鼬和艾虎则主要猎捕幼鸟
+ （ 。
+zoniae 甘肃鼠兔 Ochotona cansus 和高原鼢鼠 植物 含种子 昆虫 两栖类 猛禽 食
+）、 （ ） 4． （ ） → → → ／
+Myospalax fontanierii 等为食 肉兽构成的四节点食物链
+（ ） 。
+植物 含种子 小型哺乳类 食肉兽 猛 该链中的昆虫同上所述 而两栖类主要指中国
+2． （ ） → → ／ 
+禽构成三节点食物链 林蛙 Rana temporaria 和中华大蟾蜍 岷山亚
+（ ） （
+该链中的小型哺乳类主要为高原鼠兔 甘肃鼠 种 Bufo bufo 它们可能会成为猛禽和食肉兽潜
+、 ） （ ）
+兔 根田鼠 Microtus oeconomus 高原鼢鼠以及 在的食物来源 胃容物分析表明 中国林蛙和中华
+、 （ ）、 。 
+数量和密度较低的高原兔 Lepus oiostolus 和旱獭 大蟾蜍胃中含有大量的草原毛虫
+（ ） 。
+等 它们均为食草性动物 该链中的食肉兽主要有 从稳定性碳同位素特征上看 在上述的
+ 。  2、3
+艾虎和香鼬等 赤狐目前已很难发现 其密度和数 和 食物链中 作为顶极捕食者的小型食肉类 香
+（  4  （
+量已相当低 它们主要以高原鼠兔 甘肃鼠兔 鼬和艾虎 有时也可能会被猛禽 大 和猎隼等
+） 、 、 ） （ ）
+高原鼢鼠 根田鼠 高原兔及旱獭为食 此食物链 所捕获 但被捕获的小型食肉类多是行动不便 体
+、 、 。 。 、
+中的顶极消费者中的猛禽主要有大 Buteo hemi- 弱多病的个体 而非行动敏捷的个体 在高寒草甸
+（  。
+lasius 猎隼 Falco cherrug 和红隼 Falco tin- 地区 高空翱翔的大 和猎隼很难捕捉到动作灵敏
+）、 （ ） （ 
+nunculus 等 的香鼬和艾虎
+） 。 。
+植物 含种子 昆虫 雀形目鸟类 杂 2∙2 食物链长度
+3． （ ） → → （
+食性和食虫性 猛禽 食肉兽构成的四节点食物 高寒草甸生态系统的食物链的最大长度为
+） → ／
+链 与该系统食物链中最大节点数 很接近 这
+3∙53 4 。
+在该食物链中 主要的昆虫类群有鞘翅目 双 二者说明 稳定性碳同位素可以作为分析高寒草甸
+ 、 
+翅目 膜翅目 鳞翅目和半翅目等 主要的昆虫有 生态系统食物网和食物链结构以及食物链长度的有
+、 、 
+草原毛虫 蝶 蝇 蝽 蚊 虻和步甲及其幼虫 效代理
+、 、 、 、 、 （proxy）。
+等 它们构成了杂食性鸟类 角百灵 Eremophila
+ ［ （
+期 易现峰等 高寒草甸生态系统食物链结构分析 来自稳定性碳同位素的证据
+1 ： －－－ 5
+图 高寒草甸生态系统简单的食物链营养关系
+1
+Fig∙1 Simplefood chaintrophic relationships amongthe alpinemeadow ecosystem
+大 艾虎 香鼬 两栖类 中国林蛙 中华大蟾蜍 食虫鸟 褐背拟地鸦 黄头 杂食鸟类 小云雀
+① ；② ；③ ；④ （ 、 ）；⑤ （ 、 ）；⑥ （ 、
+角百灵 鸲岩鹨 赭红尾鸲 长嘴百灵 食草昆虫 直翅目 半翅目 鳞翅目 膜翅目 小型哺乳类 高原鼠兔 根田
+、 、 、 ）；⑦ （ 、 、 、 ）；⑧ （ 、
+鼠 高原兔 高原鼢鼠 幼鸟 藏牦牛 藏系绵羊 植食性鸟类 黄嘴朱顶雀 植物 实线表明二者存在取食关系
+、 、 ）；⑨ ；⑩ 、 ；〇11 （ ）；〇12 。 
+而虚线表明二者不存在 或存在很微弱的 取食关系 方框中的数值为稳定性碳同位素比值
+（ ） ； 。
+Buteohemilasius Mustela eversmanni Mustela altaica Rana temporariaBufo bufo
+① ；② ；③ ；④Amphibians （ ）；⑤Insect-eating birds
+Pseudopodoces humilisMotacilla citreola Alauda gulgulaEremophila alpestrisPrunellidae rubeculoides
+（ ）；⑥Omnivorous birds （
+Phoenicurus ochruros Melanocorypha maxima
+ ）；⑦Grass-eating insects （OrthopteraHemipteraLepidopteraHymenoptera）；⑧Small
+Ochotona curzoniaeMicrotus oeconomusLepus oiostolusMyospalax fontanierii Bos grunniensOvis
+mammals（ ）；⑨Young birds；⑩
+ammonhodgsoni Acanthisflavirostri
+；〇11Passerinebirds（ ）；〇12Plants．Thesolidlinesmeantrophicrelationshipbetweentwospecies；broken
+13
+linesmeanno （orweak）trophicrelationship；valuesinboxesrepresentδCvaluesofthespecies．
+差异在 以下或 以上 基本上可认为
+3 讨 论 0∙60‰ 1∙50‰ 
+它们之间不存在取食关系 因为对前一种情况而言
+。
+稳定性同位素技术应用于生态系统物质流动和
+即二者碳同位素比值非常接近 它们可能已经处
+（ ）
+食物链营养关系的研究 是基于生物体内天然存在
+在同一个营养级上 如香鼬和艾虎 图 对于
+
+（ ） （ 1）；
+的同位素比值与它们食物密切相关这一原理建立起
+后一种情况 即二者碳同位素比值存在较大差异
+ 
+来的 稳定性碳
+两物种间可能已经出现另外一个营养阶层 也不可
+（DeNiro ＆Epstein19781981）。
+
+同位素比值 或 在两营养级间的变
+13 12 13 能存在取食关系 如两栖类 香鼬 艾虎和植物群
+C／ C （ δ C）
+（ 、 、
+化常在 的范围存在
+落间已经出现昆虫和小型哺乳类另外一营养阶层
+1‰～2‰ （Hobson ＆ Clark
+）
+这样针对消费者组 图 通过该富集因子的判断 再辅以部分动物
+1992；Hilderbrand et al1996）。 （ 1）。 
+织中同位素的测定就可以推断它们的食物信息以及 胃容物的分析结果 可初步得出高寒草甸的食物链
+
+在生态系统中的食物链结构 消费者与群落基底物 营养级关系 这与 总结的情况
+。  Zhang et al （1999）
+种 初级生产者 间 13 12 的差异早就用来研究 基本类似 然而由此得出的食物链关系中 大 与
+（ ） C／ C 。 
+物种间的营养关系 小型哺乳类的微弱的取食关系似乎有悖常理 但对
+（Schoeninger＆DeNiro1984）。 。
+通过对植物群落 动物群落稳定性碳同位素模 它们稳定性碳同位素分析后 就很容易解释这种现
+、 
+式的研究 我们得到了一个高寒草甸生态系统营养 象 大 和小型哺乳类间的同位素的富集效应为
+ 。
+级间的碳同位素富集因子 它与 左右 远远超出了我们得到的富集值
+：1∙05‰； DeNiro ＆ 2∙60‰ 
+报道的值相近 于是我们对 也就是说 即使大 完全以啮齿类为食
+Epstein （19781981） 。 1∙05‰。  
+其进行一定程度的矫正并将其作为判定取食关系 其稳定性碳同位素值也应该在 左右 但
+－24∙36‰ 。
+或营养关系 的标准 如果两物种间碳同位素的 事实恰恰相反 这说明大 的大部分食物的碳同位
+（ ） 。 
+动 物 学 研 究 卷
+6 25
+素比值应该在 左右 具有该同位素比值 最低 图 因此它不可能成为猛禽和小型食肉兽
+－23∙96‰  （ 1）
+特征的食物资源 在高寒草甸地区只能是杂食性和 的主要猎捕对象 而其栖息和繁殖的特殊生境也避
+ ；
+食虫性的雀形目鸟类 这种现象可能与大规模化学 免了它们被猛禽和食肉兽的捕杀 我们还发现 幼
+。 。 
+灭鼠后大 的食性改变有关 相 鸟的碳同位素比值甚至比它们的食物还低 图
+（Yi et al2003）。 （ 1）
+反 对于香鼬和艾虎来说 它们与小型哺乳类间碳 这可能与它们对碳同位素较低的代谢能力有关 因
+  
+同位素比值的差异在 左右 小型哺乳类就成为 为我们发现幼鸟排泄物的稳定性碳同位素比值较成
+1‰ 
+其食物的主要来源 而非雀形目鸟类 另外 由同 鸟的高得多
+ 。  。
+位素富集因子得到的食物链关系中 赤胸林蚁的碳 总之 利用稳定性碳同位素技术分析高寒草甸
+ 
+同位素比值要比小型哺乳类和其他植食性昆虫的 生态系统的食物链营养关系是可行的 当然 在此
+。 
+高 说明它属于捕食性昆虫 应该属于第三营养阶 基础上引入其他稳定性同位素 氮 硫和锶等 或
+  （ 、 ）
+层 经过碳同位素的质量平衡原理计算 其食物主 辅以动物的胃容物分析 将使针对生态系统的食物
+。  
+要来源于对其他昆虫 卵或尸体 的捕食 而非对 链和食物网的分析更为精确
+（ ）  。
+植物的取食 黄嘴朱顶雀作为高寒草甸地区唯一的
+。
+植食性鸟类 其食物主要为鲜卑花的幼嫩种子 比 致谢 感谢中国科学院海北高寒草甸生态系统
+ （ ：
+叶片碳同位素比值低 其碳同位素比值 定位站提供研究场地
+1‰～2‰） 。
+参考文献
+：
+1 3 12 Journal of Oceanolography inTaiwanStrait
+Cai DLMengFHanYBGaoSL．1999．Studieson C／ C ratios NanshaIslands ［J］． 
+21 郭卫东 杨逸萍 吴林兴 王汉奎 胡明辉
+asatracerforfoodwebinamarineecosystem：Thetrophicrelations ：94－101．［     ．
+Oceanologiaet Limnolo- 南沙渚碧礁生态系营养关系的稳定碳同位素研究 台湾
+inpelagicfoodwebsinLaoshan Bay ［J］． 2002． ．
+giaSinica 30 蔡德陵 孟 凡 韩贻兵 高素 海峡 21
+ ：671－678． ［     ：94－101．］
+兰 13 12 比值作为海洋生态系统食物网示踪剂的研究
+．1999．C／C ： HilderbrandGVFarleySDRobbinsCT．1996．Useof stableisotope
+崂山湾水体生物食物网的营养关系 海洋与湖沼 30 Can．J．Zo-
+．  ：671－ todetermine diets of living and extinct bears ［J］．
+ol 74
+678．］ ． ：2082－2088．
+CaiDLHongXGMaoXHZhangSFHan YBGaoSL．2001a． HobsonKAClark RW．1992．Assessingavian diets using stable iso-
+Preliminary studies ontrophic structure of A ti c d t a a l O z c o e n a e no in log th ic e a L S a i o n s i h ca an topes：Ⅰ．Turnoverof 1 3 Cintissues ［J］． Condor ． 94 ：181－
+2 B 3 ay by usingcarbo 蔡 n 德 sta 陵 bleis 洪 oto 旭 pe 光 s ［J 毛 ］． 兴华 张淑芳 韩贻兵  188．
+步
+高 ： 素
+研
+4 兰
+究
+1－
+． ． 2
+4
+海 0
+7
+0
+．
+洋 1a 学 ．
+［
+报
+崂
+
+山
+23
+湾
+：
+ 潮
+41
+间
+－
+带
+47
+食
+．
+
+］
+物网结构  的碳稳定  同位素初  Hobs
+w
+o
+［
+n
+J it ］ h
+K
+． in
+A
+M
+
+a a
+W
+h r i ． g
+e
+h
+lc
+E
+h
+a c r o c
+H
+l t ． i
+E
+c
+．
+P m
+1
+ro a
+9
+r g
+9
+i ． n
+2
+e
+．
+S f e o
+D
+r o ．
+e
+d
+t
+
+e
+w
+r
+8
+m
+4 eb
+i
+：
+na
+u 9
+t
+s
+io
+－ in
+n
+1 g 8
+o
+1
+f
+3 ．
+t
+C
+rop
+a
+h
+n
+i
+d
+c
+1
+r
+5
+e
+N
+lati
+a
+o
+n
+n
+a
+s
+l
+h
+y
+i
+s
+p
+i
+s
+s
+CaiDLWang RBi HS．2001b．Trophic 1 3 relationships in the Ac B ta oh E a - i PetersonBJHowarthRWGarrittRH．1985．Multiplestableisotopes
+c e o c l o o s g y i s c t a em S 渤 i ： n 海 i P ca r 生 e  li 态 2 m 1 i 系 n ： a 统 r 1 y 3 的 5 in 4 v 营 － es 养 1 ti 3 g 关 5 at 9 io 系 ． nfr ［ o 碳 蔡 m 同 德 C 位 陵 a  素 nal 王 研 ysi 究 s 的 荣 ［J  初 ］． 毕 步 洪 结果 生 ． u S s c e ie d n t c o e  tr 2 ac 2 e 7 t ： he 13 f 6 lo 1 w － o 1 f 3 o 6 r 3 ga ． nicmattersinestuarinefoodwebs ［J］．
+2 生 00 态 1b 学 ． 报 21 ： ． SchoeningerMJDeNiroMJ．1984．Nitrogenand carbonisotopiccom-
+ ：1534－1359．］ positionof bone collagen from marine and terrestrial animals ［J］．
+CerlingTEHarrisJM．1999．Carbonisotopefractionationbetweendi- Geochim．Cosmochim．Acta  48 ：625－639．
+e a t nd an p d al b e i o o e a c p o a l t o i g te ic i a n ls u t n u g d u ie la s te ［ m J］ a ． mm O a e l c s o a lo n g d ia im  p 1 l 2 ic 0 a ： tio 3 n 4 s 7 fo － r 3 e 6 c 3 ol ． ogical YiXF up  la L n i d L b X uz  za Z r h d a s n （ g B X u A te  o L h i em M i C la  siu Z s h ） a ： oL E ． vi 2 d 0 e 0 n 3 ce ． fr F o o m od st h a a b b l i e ts c h a i r f b t o o n f
+DeNiroMJEpstein S．1978．Influence Ge o o f ch d i i m et ． on C t o h s e mo d c i h st im rib ． uti A o c n ta of i 李 sot 来 op 兴 erati 张 os 晓 ［ 爱 J］． 李 Ac 明 ta 财 Zool． 赵 Sin 亮 ． 49 ：52－ 大 56． 的食 ［ 易 性 现 改变 峰 
+4 c 2 arbon isotopes in animals ［J］．  来自稳定  性碳同位  素的证据  动物学 ． 报 2003 49 ． ：
+：495－506． ．  ：52－56．］
+DeNir is o ot M op J e  s E in ps a te n i i n ma S ls ．1 ［ 9 J 8 ］ 1 ． ． G I e n o f c l h u i e m nc ． e C of os d m ie o t ch o im n ． the Ac d t i a st  ri 4 b 5 ut ： io 3 n 4 o 1 f Zhan t g ur X e A in  a Z l h p a in o e L m  ea L d i o u w Z e H co ． sy 1 s 9 te 9 m 9． ［J A ］． pr A el c i t m a in B a i r o y log an ic a a ly P si l s at o e n au st S r i u n c- -i
+－351． ca  14 ：150－156． ［ 张晓爱  赵 亮  刘泽华 ．1999． 高寒
+草甸生态系统结构的初步分析 高原生物学集刊 14
+GuoWDYangYPWuLXWan HKHu MH．2002．Stable car- ．  ：150－
+bonisotopesstudyontrophicrelationshipsofZhubireefecosystemin 156．］

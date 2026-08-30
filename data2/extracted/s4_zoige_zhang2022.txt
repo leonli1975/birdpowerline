@@ -1,0 +1,333 @@
+第 43 卷 第 5 期 四 川 林 业 科 技 Vol.43, No.5
+2022 年 10 月 Journal of Sichuan Forestry Science and Technology Oct. , 2022
+研究报告
+四川若尔盖湿地国家级自然保护区鸟类
+多样性及区系分析
+张峻1,2, 班英2, 卓玛姐2, 言迫2, 索郎夺尔基2, 杨志松1,3*
+1. 西华师范大学生命科学学院，四川 南充 637002；
+2. 四川若尔盖湿地国家级自然保护区管理局，四川 若尔盖 624566；
+3. 四川省大熊猫科学研究院，四川 成都 610057
+2022-04-24 收稿, 2022-07-14 网络版发表 开放科学(资源服务)标识码(OSID):
+张峻（1992—），男，硕士研究生,1067080561@qq.com
+* 通信作者 yangzhisong@126.com
+摘 要 通过2019—2021间开展的鸟类野外调查并查阅历史鸟类分布记录资料，共记录汇总四川若尔盖湿地
+国家级自然保护区鸟类17目45科232种，其中文献记录7目15科31种。古北界、东洋界、广布种鸟类
+157、40、35种，分12种分布型，古北界鸟类占67.67%。留鸟98种、旅鸟50种、夏候鸟52种、冬候鸟
+29种、迷鸟3种，非留鸟占57.76%，鸟类多样性季节变化明显。高寒草甸（165种）、高山灌丛（127种）生
+境中的分布的鸟类种数较多，之前对该地区的鸟类研究主要集中在湿地类型生境中并以水鸟为主，建议今后加
+强对保护区非湿地生境中鸟类的关注和研究，特别是雀形目鸟类和猛禽。在不同类型的生境中，鸟类分布数
+量、种类、优势种差异明显，不同生境间鸟类共有种数量不一，侧面反映了出该地区近年来水平空间梯度上的
+生境分化显著。近年来，保护区内新纪录鸟类不断增加，鸟类多样性情况日趋复杂，根据此次研究结果，建议
+保护区今后分季节和生境类型制定针对性的鸟类保护措施。
+关键词 若尔盖湿地国家级自然保护区; 鸟类多样性; 区系; 生境
+四川若尔盖湿地国家级自然保护区（33°25′ 泽和湖泊。近几十年来，由于气候变化和人为活动
+54″—34°00′02″N、102°28′36″—102°58′11″E）位于 因素的影响，水平梯度上的生境破碎化和生境演化
+四川省阿坝藏族羌族自治州若尔盖县西北部，地 速度加快，生境分异越来越明显[2-5]。根据保护区内
+处青藏高原东北边缘，是以典型的高寒沼泽湿地生 景观格局情况[6-9]，将区内鸟类分布的生境划分为高
+态系统和黑颈鹤（Grus nigricollis）等鸟类为主要保 寒沼泽（Alpine marsh）、高寒草甸（Alpine meadow）、
+护对象的保护区。总面积16.66 万hm2，海拔跨度 高山灌丛（Alpine bush）、湖泊（Lakes）、河流
+3422 m~3697 m。地势和水系呈东南-西北走向，以 （Rivers）等5种典型自然生境和裸岩沙地（Bare
+高原浅丘沼泽地貌为主，总体较为平坦，视野开阔。 rock sandy land）、原住民活动区（Native residential
+保护区属高原寒温带湿润气候，近10年（2012— area）等2种非典型生境。鸟类是湿地生态系统中主
+2021）来区内年均降水在500~1000 mm之间，年均 要的顶级消费者，其生存与低营养级生物乃至无机
+气温在1.8℃左右，月间温差达23.2℃[1]，春冬季寒 环境密切相关，对不同生态因子对湿地的干扰有所
+冷干燥，夏秋季雨热同期。经地形海拔、气候等自 响应，可作为湿地生态系统监测与评价的指标之
+然因素和历史作用，区内发育了面积较大的连片沼 一[10]。保护区独特而丰富的自然地理条件为不同动
+引用格式：张峻, 班英, 卓玛姐, 等. 四川若尔盖湿地国家级自然保护区鸟类多样性及区系分析[J]. 四川林业科技, 2022, 43（5）: 11−17.
+ZHANG J, BAN Y, ZHUO M J, et al. Bird diversity and fauna analysis of Zoige Wetland National Nature Reserve in Sichuan Province[J].
+Journal of Sichuan Forestry Science and Technology, 2022, 43（5）: 11−17. doi: 10.12172/202204240001.
+© 2022《四川林业科技》编辑部 www.sjfsci.com
+四川林业科技 2022 年 第43 卷 第5 期
+物提供了赖以栖息的生境，使之成了生物多样性， 相机拍照进行现场记录，留存照片进行后期分析。
+特别是鸟类多样性研究的热点地区[11]。
+1.2 数据整理汇总
+受保护区自然条件和技术条件限制，保护区的
+鸟类调查较少采用红外相机等技术手段，仅在花湖 1.2.1 参考依据
+区域安装有3台红外多光谱定点监测设备，普遍调 鸟类分类参照世界鸟类名录（IOC World Bird
+查方法以传统样线（点）法、样方法为主[12-13]。以往 List 12.1版，www.worldbirdnames.org）[16]所使用的
+对保护区的鸟类研究，多以黑颈鹤为主，但缺少对 分类系统，该名录体现了迄今为止最新的鸟类分类
+其他鸟类和总体情况的研究。作为鸟类活动热点地 学研究进展。区系与分布型参照《中国动物地理分
+区，保护区的鸟类调查历史虽长 [14]，但缺乏长期的 区》[17]。保护级别和濒危等级信息参考《国家重点
+调查监测活动和监测规划，鸟类分布记录零散。现
+保护野生动物名录（2021 年版）》[18]、世界自然保
+护联盟（IUCN）濒危物种红色名录[19]。鸟类特有性
+存的有效参考资料有：《四川若尔盖湿地国家级自
+然保护区综合科学考察报告（2013）》《若尔盖湿 状态和居留型参考《中国鸟类分类与分布名录第三
+版》[20]、《中国鸟类观察手册》[21]，并根据季节分
+地国家级自然保护区动物多样性调查报告（2016）》
+布情况和以往分布记录确定。新记录的鸟类主要参
+《四川若尔盖湿地国家级自然保护区科研监测报告
+考《中国鸟类野外手册》[22]、《四川鸟类鉴定手
+（2014—2017）》（以上为内部资料，未发表）。由
+册》[23]、《四川鸟类原色图鉴》[24]、《四川省鸟类
+于其调查时间不同，加上鸟类鉴别和分类系统不同
+名录的修订与更新》[25]。
+等客观因素影响，记录的鸟类种群分布情况各不相
+1.2.2 数据来源分类
+同。随着鸟类多样性在保护工作中的重要性日益突
+除上述3份保护区内部报告外，还参考了自上
+显和关注度的提升[15]，面对日趋复杂的鸟类多样性
+世纪90年代以来的若尔盖相关鸟类记录公开资
+变化情况，对保护区鸟类开展专项野外调查并汇总
+料[26-28]。此外，野外分布记录还参考了存有影像记录
+更新鸟类分布记录显得十分迫切和必要，有助于保
+的相关资料，包括2018~2019若尔盖观鸟赛记录、
+护区管理部门摸清区内鸟类底数，形成长期的鸟类
+保护区花湖相机监测记录以及保护区管理局日常工
+监测规划，更新区内鸟种信息动态，并制定针对性
+作摄影记录。
+保护措施。
+1.2.3 鸟类名录更新
+1 研究方法
+按照鸟类的分目、分科情况，以鸟类种名、区
+系和分布型、保护等级、特有性状态、IUCN红色名
+1.1 野外调查
+录、居留型、分布季节、分布生境、记录来源更新
+野外调查于2019年3月—2021年9月分季节进 保护区鸟类名录。对分布存疑物种，查阅物种在该
+行（春季3月，夏季6月，秋季8—9月，冬季12 地区的分布历史和周边区域分布情况，进行比对、
+月），根据保护区内道路状况和可达性，尽量覆盖 去除或保留。
+鸟类可能活动的区域，共设置8条样线（带）。调
+1.3 数据分析
+查时段主要选择鸟类活动较多的清晨和傍晚，采用
+单筒12倍和双筒10倍望远镜进行沿线观察，行进 依据鸟类居留型、季节分布、生境分布情况以
+速度3~5 km·h−1（具体以观测时鸟类数量决定），记 及种群数量变化情况，研究保护区内不同生境中鸟
+录保护区内的鸟类种类、数量、生境类型、地点 类群落优势种和鸟类群落多样性变化。鸟类优势种
+（经纬度）、海拔等信息。在实际调查中，可能出 确定采用Berger+Parker指数，即D= N/N（N为群
+i i i
+现的情况和处理方法：（1）当鸟类较少时，沿样线 落中物种i的数量，N为群落中所有鸟类的个体总
+（样带）每隔500 m设置一个观测样点，每个样点 数，D≥0.05为优势种，0.005≤D<0.05为常见种，
+i i
+左右或环视观测5 min，在记录时注意对上一个观测 D<0.005为罕见种）；生境间鸟类多样性采用
+i
+点的观测结果进行去重；（2）在行进过程中，对任 Whittaker差异性指数，即β =S/m −1（S为不同生
+w α
+何处于保护区范围内的鸟类都要进行记录；（3）当 境群落的物种总数，m 为不同生境群落的共有物
+α
+鸟类数量和种类较多或鸟类处于飞行状态时，使用 种数）[29]。
+12
+张峻，等：四川若尔盖湿地国家级自然保护区鸟类多样性及区系分析 研究报告
+2 研究结果 henrici、白眉朱雀 Carpodacus dubius、斑翅朱雀
+Carpodacus trifasciatus、朱鹀 Urocynchramus pylzowi、
+2.1 鸟类物种组成和区系
+四川褐头山雀 Pseudopodoces montanus、斑尾榛鸡、
+此次共记录保护区鸟类17目45科232种，其 蓝马鸡。
+中野外调查记录17目44科201种，文献记录7目
+2.3 鸟类多样性季节变化特征
+15科31种。雀形目Passeriformes鸟类种数最多，
+为22科99种，占总鸟类种数的42.67%，其次是鸻 从居留型来看，保护区有留鸟98种（41.88%）、
+形目Charadriiformes 6科38种（16.38%）、雁形目 旅鸟50种、夏候鸟52种、冬候鸟29种、迷鸟
+Anseriformes 1科26种（11.21%）。从区系来看， 3种，非留鸟134种，占总鸟类种数的57.76%，鸟
+古北界157种（67.67%）、东洋界40种（17.24%）、 类多样性季节变化明显。根据野外调查记录，从分
+广布种35种（15.09%），古北界占很大比例。分 布季节来看，春季分布120种（51.72%），夏季分
+12种分布型，分别是古北型61种（26.29%）、全北 布186种（80.17%），秋季分布163种（70.26%），
+型41种（17.67%）、广布型35种（15.09%）、喜 冬季分布121种（52.16%），夏秋季鸟类多样性较
+马拉雅-横断山区型26种（11.21%）、高地型20种 春冬季有显著优势，这与夏秋季水热条件充足，植
+（8.62%）、东洋型19种（8.19%）、东北型16种 被、昆虫、两栖类、啮齿类生长繁殖速度快，鸟类
+（6.90%）、中亚型8种（3.45%）、东北-华北型2种 食物丰沛有关[30-31]。
+（0.86%）、季风区型2种（0.86%）、华北型1种
+2.4 不同生境鸟类物种数量和优势种
+（0.43%）、南中国型1种（0.43%）。
+在7种不同类型生境中，鸟类物种分布数量和
+2.2 鸟类濒危物种、保护物种和特有物种
+优势种差异明显。高寒草甸和高山灌丛分布的鸟类
+保护区内有濒危物种红色名录鸟类18种。其中 物种数量较多，分别为165种（71.98%）、127种
+濒危（EN）5种，分别是东方白鹳 Ciconia boyciana、 （54.74%），而裸岩沙地和原住民区中分布的鸟类
+草原雕 Aquila rapax、玉带海雕 Haliaeetus eucor- 物种数量较少，分别为36种（15.52%）、17种
+yphus、猎隼 Falco cherrug、大杓鹬 Numenius mada- （7.33%）。在高寒沼泽、河流、湖泊生境中，优势
+gascariensis ；易危（VU）4种，分别是角䴙䴘 种以鸻形目、雁形目、鹤形目Gruiformes鸟类为
+Podiceps auritus 、白肩雕 Aquila heliaca、红头潜鸭 主，多为游禽和涉禽。而在高寒草甸、高山灌丛、
+Aythya ferina、黑颈鹤；近危（NT）11种，分别是 裸岩沙地和原住民区中则以雀形目和鹰形目Accip-
+白眼潜鸭 Anas nyroca、罗纹鸭 Anas falcata、秃鹫 itriformes鸟类为主（见表1）。
+Aegypius monachus、高山兀鹫 Gyps himalayensis、胡
+2.5 不同生境间鸟类群落多样性差异
+兀鹫 Gypaetus barbatus、斑尾榛鸡 Bonasa sewera-
+owi、凤头麦鸡 Vanelus vanellus、凤头蜂鹰 Pernis 根据不同生境间共有种数量的多少计算出鸟类
+ptilorhyncus、苍鹰 Accipiter gentilis、黑尾塍鹬 群落差异性指数，共有种越少，差异性指数越大。
+Limosa limosa、弯嘴滨鹬 Calidris ferruginea。 高山灌丛、裸岩沙地、原住民区生境和河流、湖泊
+区内有国家Ⅰ级野生重点保护鸟类14种，分别 生境间的共有鸟类物种数趋近于零，鸟类群落差异
+是彩鹮 Plegadis falcinellus、白鹳 Ciconia ciconia、黑 性最大。而高山灌丛和高寒草甸、河流和湖泊间的
+鹳 Ciconia nigra、东方白鹳、黑颈鹤、金雕 Aquila 共有种较多，差异性指数较小，鸟类群落表现出较
+chrysaetos、草原雕、玉带海雕、白尾海雕 Haliaeetus 高的相似性（见表2）。
+albicilla、秃鹫、胡兀鹫、白肩雕、猎隼、斑尾榛
+3 讨论
+鸡；国家Ⅱ级野生重点保护鸟类41种。
+区内有我国特有鸟类12种，分别是山噪鹛 保护区在2013年、2016年、2017年的3次调
+Garrulax davidi、橙翅噪鹛Garrulax elliotii、中华雀 查报告分别记录了鸟类14目34科149种、13目
+鹛 Fulvetta striaticollis、大噪鹛 Garrulax maximu、凤 36科176种、14目31科111种，此次研究汇总记
+头雀莺 Lophobasileus elegans、藏雪雀 Montifringilla 录鸟类16目45科234种，主要增加的鸟类来源于
+13
+四川林业科技 2022 年 第43 卷 第5 期
+表 1 不同生境类型中鸟类优势种及优势度指数
+Tab. 1 Dominant species and dominance index of birds in different habitats
+优势度指数 Dominance index
+优势科
+优势目 优势种
+Dominant 高寒沼泽 高寒草甸 裸岩沙地 原住民区
+Dominant orders Dominant species 高山灌丛 河流 湖泊
+families Alpine Alpine Barely Residential
+Alpine shrub River Lake
+swamp meadow sandy land area
+红脚鹬
+0.069 0.062 0.051
+鹬科 Tringa totanus
+鸻形目 Scolopaicidae 青脚鹬
+0.052
+Charadriiformes Tringa nebularia
+鸥科 棕头鸥
+0.086 0.056
+Laridae Larus brunnicephalus
+赤麻鸭
+0.058 0.075 0.062
+雁形目 鸭科 Tadorna ferruginea
+Anseriformes Anatidae 灰雁
+0.061 0.059
+Anser anser
+鹤形目 秧鸡科 白骨顶
+0.052 0.052 0.152
+Gruiformes Rallidae Fulica atra
+百灵科 角百灵
+0.054 0.059 0.078
+Alaudidae Eremophila alpestris
+鸦科 红嘴山鸦
+0.078 0.066 0.072
+雀形目 Corvidae Pyrrhocorax
+Passeriformes 白腰雪雀
+0.056 0.858 0.182
+雀科 Montifringilla taczanowskii
+Passeridae 麻雀
+0.168
+Passer
+黑鸢
+0.052 0.056 0.061
+鹰形目 鹰科 Milvus migrans
+Accipitriformes Accipitridae 大鵟
+0.051 0.068
+Buteo hemilasius
+表 2 不同生境类型中鸟类群落差异性指数
+Tab. 2 Difference index of bird communities in different habitats
+高寒沼泽 高寒草甸 高山灌丛 河流 湖泊 裸岩沙地 原住民区
+Alpine swamp Alpine meadow Alpine shrub River Lake Barely sandy land Residential area
+高寒沼泽Alpine swamp 4.000 8.273 0.738 0.556 5.765 10.556
+高寒草甸Alpine meadow 44 0.275 9.950 9.636 3.667 8.882
+高山灌丛Alpine shrub 22 131 — — 2.743 6.647
+河流River 61 20 0 0.338 — —
+湖泊Lake 72 22 0 68 — —
+裸岩沙地Barely sandy land 17 36 35 0 0 2.077
+原住民区Residential area 9 17 17 0 0 13
+注:左下角分别为不同生境类型之间的共有物种数m，右上角分别为不同生境间的Whittaker差异性指数。
+α
+Notes: the lower left corner is the species shared between different habitat types m, the upper right corner is the Whittaker index.
+α
+雀形目、雁形目、鸻形目和猛禽类，其他各目、科 不够。
+的鸟类也有不同程度的增加。导致此种差异的可能 鸟类地理区系是鸟类自身长期演化与适应栖息
+原因，一是在近年来水热活动增强的大趋势下，保 生境相互作用的结果[17]。保护区鸟类中古北界鸟类
+护区水体面积增大、水位上涨，导致许多亲水鸟类 占较大比例，这与保护区地处古北界青藏区青海藏
+在此停留；二是受生境变化和人为活动影响，鸟类 南亚区的实际地理位置相符。但由于保护区位于古
+行为对此发生适应性改变[32-34]；三是受限于当时调查 北界与东洋界西南区的交汇地带，加上保护区周边
+监测的技术水平和时长，以往的监测对在非监测时 不同类型的自然保护地较多，鸟类交互渗透，近年
+段活动的鸟类和部分相似鸟类的监测和鉴别关注度 来区内东洋界鸟类和不易归类的广布种鸟类也逐渐
+14
+张峻，等：四川若尔盖湿地国家级自然保护区鸟类多样性及区系分析 研究报告
+增多。在以古北界鸟类为保护主体的前提下，对其 予以甄别、核实、归类。对于一些仅有文献记录但
+他地理分区的鸟类也应一并予以追踪和关注。夏秋 多年来没有野外监测到的鸟类，应考虑从保护区鸟
+季作为若尔盖地区的旅游旺季，放牧、旅游等人为 类名录中予以删除。因分类系统的不同，部分鸟类
+活动在此时增多，而保护区夏秋季鸟类分布数量和 可能造成重复或不同记录，如地山雀（褐背拟地鸦
+种类较多，因此应重点关注夏秋季人为活动对鸟类 Pseudopodoces humilis）原属鸦科，根据基因研究和
+活动的干扰，加强宣传和巡护。 最新分类学应归属于山雀科 Paridae，且不属于我国
+由于保护区内部海拔高差较小，垂直地带性差 特有鸟种[24]；中华雀鹛（高山雀鹛 Fulvetta striati-
+异小，此次研究体现出的鸟类多样性差异更多体现 collis）、大山雀（远东山雀Pseudopodoces minor）、
+在水平生境变化梯度上。因不同的植被覆盖类型、 淡灰眉岩鹀（灰眉岩鹀 Emberiza cia）、灰眉岩鹀
+地表水位体现出较强的鸟类多样性水平分化和差 （戈氏岩鹀Emberiza godlewskii）在不同文献记录种
+异，产生了不同食性的鸟类群落优势种。以往对保 都有不同的描述和记录。在此次研究中，还在影像
+护区鸟类的研究，关注点主要集中在水鸟，特别是 记录中发现了部分因外形和习性与同科鸟类相似而
+以黑颈鹤为代表的旗舰保护物种，其主要分布生境 未被识别的鸟类“隐藏种”，如短嘴豆雁Anser
+为沼泽、湖泊等水位较低的湿地类型生境。而此次 serrirostris、 花 脸 鸭 Anas formosa、 棕 颈 雪 雀
+研究发现，在草甸、灌丛等水位较高的生境类型 Pyrgilauda ruficollis，这些鸟类或许在保护区已有很
+中，分布的鸟类物种数较多，对这些非湿地类型生 长的分布历史，但一直未被记录，这也是保护区今
+境中的鸟类应给予以更多的关注。根据不同类型生 后鸟类监测中值得注意的一个问题。
+境中鸟类群落多样性的差异，在对沼泽、湖泊、河 在推进若尔盖国家公园建设过程中，若尔盖湿
+流等生境的鸟类保护中，应以雁形目、鸻形目等亲 地将作为一种典型高寒湿地生态系统和自然景观类
+水鸟类为主，在对其他生境的鸟类保护中，应以雀 型被加以重点保护，所包含地域范围将覆盖若尔盖
+形目鸟类和猛禽类为主。而不同类型生境鸟类群落 周边临近的若干个行政县，届时该区域鸟类多样性
+多样性的差异侧面反映了不同类型生境分化的加剧 的调查工作将更为困难和复杂。若尔盖高寒湿地独
+及自然和人为生态因子对生境的扰动，对于以湿地 特的地质、气候、水文自然地理条件为珍稀野生动
+生态系统为主要保护对象的保护区而言，应及时阻 植物的生存、繁殖创造了得天独厚的环境[35]，近年
+止这种生境极端演化、分化的趋势，湿地生态修复 来保护区鸟种丰富度有显著提升，也一定程度上反
+工作仍任重道远。 映了保护区湿地保护与生态修复的部分成效。但囿
+在此次的汇总中，还存在一些分布存疑的鸟 于技术条件和重视程度，缺乏长期性和系统性的鸟
+类。如小天鹅Cygnus columbianus在实际活动中常与 类监测规划，在监测时长、统一监测规划管理、数
+大天鹅Cygnus cygnus混杂，不易区分；一些雀形目 据归集上还有很多不足，对诸如红外相机、GPS等
+鸟类，因体型较小，外形相似，如北红尾鸲 技术的运用还不成熟。建议保护区管理部门加强鸟
+Phoenicurus auroreus和 白 顶 溪 鸲 Chaimarrornis 类及其他野生动物监测技术能力水平的建设，制定
+leucocephalus，容易在记录鉴别时产生谬误。对于存 并落实长期统一的鸟类监测计划，分季节和区域开
+疑物种，需要在今后的监测中增加影像资料，一一 展连续的鸟类监测和保护工作。
+参考文献
+[1] 数据来源于国家科技基础条件平台—国家地球系统科学数据中心（http://www.geodata.cn）.
+[2] 郭洁，李国平. 若尔盖气候变化及其对湿地退化的影响[J]. 高原气象，2007，26（002）：422−428.
+[3] 刘红玉，白云芳. 若尔盖高原湿地资源变化过程与机制分析[J]. 自然资源学报，2006，21（5）：9.
+[4] 王文丽, 董治宝, 胡光印, 等. 若尔盖高原近30年沙地变化趋势分析[J]. 中国沙漠, 2008.
+[5] 沈松平，王军，杨铭军. 若尔盖高原沼泽湿地萎缩退化要因初探[J]. 四川地质学报，2003，23（2）：3.
+[6] 白军红，欧阳华，崔保山，等. 近40年来若尔盖高原高寒湿地景观格局变化[J]. 生态学报，2008，28（5）：2245−2252.
+[7] 邓茂林. 若尔盖高原湿地国家级自然保护区景观格局变化及驱动力[D]. 西南林业大学, 2010.
+[8] 何菊红. 2000-2014年若尔盖湿地变化监测及驱动因子分析[D]. 成都理工大学, 2016.
+[9] 武高洁. 近12年若尔盖自然保护区各功能区景观格局动态分析[J]. 西部林业科学，2017，46（5）：7.
+[10] 王强，吕宪国. 鸟类在湿地生态系统监测与评价中的应用[J]. 湿地科学，2007，5（3）：8.
+15
+四川林业科技 2022 年 第43 卷 第5 期
+[11] 吴亚勇，韩金锋，索郎夺尔基，等. 青藏高原东缘若尔盖湿地国家级自然保护区陆生脊椎动物多样性和区系研究[J]. 西藏科技，
+2021（6）：7.
+[12] 郝云庆，王新，刘少英，等. 若尔盖湿地保护区生物多样性评价[J]. 中国水土保持科学，2008（z1）：6.
+[13] 包新康，廖继承，孙元海，等. 鸟类群落对若尔盖高原湿地退化梯度的响应[J]. 生态学报，2021，41（2）：781−791.
+[14] 郑作新, 谭耀匡, 李永新. 四川西北部鸟类区系调查[J]. 动物学报, 1965（4）.
+[15] 中共中央，国务院. 《黄河流域生态保护和高质量发展规划纲要》（摘要）[J]. 中国民族，2021（10）：1.
+[16] Gill F, D Donsker and P Rasmussen etc. IOC World Bird List （v12.1）[EB/OL]. http://www.worldbirdnames.org.2022.
+[17] 张荣祖. 中国动物地理[M]. 北京科学出版社, 2011.
+[18] 国家林业和草原局. 国家重点保护野生动物名录[EB/OL]. http://www.forestry.gov.cn/html/main/main_3954/20210225160347342521589/
+file/2021022516040110270296.2021.
+[19] IUCN. The IUCN red list of threatened species [EB/OL].https://www.iucn-redlist.org.2021.
+[20] 郑光美. 中国鸟类分类与分布名录第三版[M]. 北京: 科学出版社, 2017.
+[21] 刘阳, 陈水华. 中国鸟类观察手册[M]. 长沙: 湖南科学技术出版社, 2021.
+[22] 约翰·马敬能, 卡伦·菲利普斯, 何芬奇, 等. 中国鸟类野外手册[M]. 长沙: 湖南教育出版社, 2000.
+[23] 张俊范. 四川鸟类鉴定手册[M]. 北京: 中国林业出版社, 1997.
+[24] 李桂垣. 四川鸟类原色图鉴[M]. 北京: 中国林业出版社, 1993.
+[25] 阙品甲等. 四川省鸟类名录的修订与更新[J]. 四川动物，2020，39（3）：29.
+[26] 杨旭煜，戴波，隆廷伦，等. 若尔盖沼泽冬夏季水禽和猛禽的调查[J]. 四川师范学院学报（自然科学版），1997，18（1）：10.
+[27] 冉江洪，刘少英，林强，等. 四川辖曼自然保护区的鸟类资源调查[J]. 四川动物，2000，19（5）：10.
+[28] 张国钢，戴强，刘冬平，等. 若尔盖湿地水鸟资源季节变化[J]. 动物学杂志，2013，4：48.
+[29] Anne. E. Magurran. 张峰. 生物多样性测度[M]. 科学出版社. 2011.
+[30] 戴建洪，戴强，张明，等. 若尔盖湿地国家自然保护区三种无尾两栖类夏秋季生境选择[J]. 动物学研究，2005，26（3）：9.
+[31] 崔丽娟，马琼芳，郝云庆，等. 若尔盖高寒沼泽植物群落与环境因子的关系[J]. 生态环境学报，2013，22（11）：8.
+[32] 肖玥，赵晨皓，刘伟，等. 若尔盖湿地骨顶鸡的繁殖生态及适应性探讨[J]. 四川动物，2017，3（2）：6.
+[33] 刘伟, 赵晨皓, 蒋政权, 等. 四川若尔盖湿地国家级自然保护区黑颈鹤与放牧活动关系研[R]. 成都, 2017.
+[34] 赵周周，戴强，邓怀庆，等. 高寒草地城镇对周边鸟类影响范围评估方法[J]. 四川动物，2017，36（3）：5.
+[35] 费世民，崔丽娟，何亚平，等. 若尔盖高寒湿地生态系统定位站的背景研究——若尔盖高寒湿地研究概述[J]. 四川林业科技，2006，
+27（2）：9.
+16
+张峻，等：四川若尔盖湿地国家级自然保护区鸟类多样性及区系分析 研究报告
+Summary for “四川若尔盖湿地国家级自然保护区鸟类多样性及区系分析”
+Bird Diversity and Fauna Analysis of Zoige Wetland National
+Nature Reserve in Sichuan Province
+ZHANG Jun1,2, BAN Ying2, Zhuomajie2, YAN Po2, Suolangduoerji2, YANG Zhisong1,3*
+1 College of Life Science, China West Normal University, Nanchong 637002, China；
+2 Sichuan Zoige Wetland National Nature Reserve Administration Bureau, Zoige 624566, China；
+3 Sichuan Academy of Giant Panda Science, Chengdu 610057, China
+* Corresponding author, yangzhisong@126.com
+Abstract Based on the field survey of birds carried out from 2019 to 2021 and the historical records of bird
+distribution, 232 species of birds belonging to 17 orders and 45 families in Zoige Wetland National Nature Reserve
+were recorded and summarized in this research, including 31 species of birds in 7 orders and 15 families from literature
+review. There were 157, 40 and 35 species in the Palaearctic realm, Oriental realm and widespread birds, which are
+divided into 12 distribution types. The Palaearctic birds accounted for 67.67%. Among them, 98 were resident birds, 50
+were migratory birds, 52 were summer migratory birds, 29 were winter migratory birds, and 3 were lost birds. Non-
+resident birds accounted for 57.76%. The seasonal variation of bird diversity is obvious. A large number of bird species
+were distributed in alpine meadow （165 species） and alpine shrub （127 species） habitats. Previous studies on
+birds in this area mainly focused on wetland habitats, mainly on waterfowl. It is suggested that more attention and
+research should be paid to birds in non-wetland habitats of nature reserves in the future, especially passerine birds and
+raptors. The distribution number, species and dominant species of birds were significantly different in different habitats,
+and the number of common species of birds was different in different habitats, which reflected the significant habitat
+differentiation on horizontal spatial gradient in this area in recent years. In recent years, the number of newly recorded
+birds in the reserve has been increasing, and the bird diversity of birds has become more and more complex. According
+to the results of this study, it is suggested that the protection measures for birds should be formulated according to
+seasons and habitat types in the future.
+Key words Zoige Wetland National Nature Reserve; Bird diversity; Fauna; Habitat
+doi: 10.12172/202204240001
+17

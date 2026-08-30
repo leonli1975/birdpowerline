@@ -1,0 +1,467 @@
+--- PAGE 1 ---
+南京林业大学学报(自然科学版)
+Journal of Nanjing Forestry University(Natural Sciences Edition)
+ISSN 1000-2006,CN 32-1161/S
+《南京林业大学学报(自然科学版)》网络首发论文
+题目： 成都市鸟类多样性时空分布格局及热点区域识别
+作者： 任诗超，张银龙，曹铭昌，刘威，乔姝凡，朱晓泾，罗康宁
+收稿日期： 2022-12-27
+网络首发日期： 2023-08-15
+引用格式： 任诗超，张银龙，曹铭昌，刘威，乔姝凡，朱晓泾，罗康宁．成都市鸟类多
+样性时空分布格局及热点区域识别[J/OL]．南京林业大学学报(自然科学版).
+https://link.cnki.net/urlid/32.1161.S.20230815.0940.004
+网络首发：在编辑部工作流程中，稿件从录用到出版要经历录用定稿、排版定稿、整期汇编定稿等阶
+段。录用定稿指内容已经确定，且通过同行评议、主编终审同意刊用的稿件。排版定稿指录用定稿按照期
+刊特定版式（包括网络呈现版式）排版后的稿件，可暂不确定出版年、卷、期和页码。整期汇编定稿指出
+版年、卷、期、页码均已确定的印刷或数字出版的整期汇编稿件。录用定稿网络首发稿件内容必须符合《出
+版管理条例》和《期刊出版管理规定》的有关规定；学术研究成果具有创新性、科学性和先进性，符合编
+辑部对刊文的录用要求，不存在学术不端行为及其他侵权行为；稿件内容应基本符合国家有关书刊编辑、
+出版的技术标准，正确使用和统一规范语言文字、符号、数字、外文字母、法定计量单位及地图标注等。
+为确保录用定稿网络首发的严肃性，录用定稿一经发布，不得修改论文题目、作者、机构名称和学术内容，
+只可基于编辑规范进行少量文字的修改。
+出版确认：纸质期刊编辑部通过与《中国学术期刊（光盘版）》电子杂志社有限公司签约，在《中国
+学术期刊（网络版）》出版传播平台上创办与纸质期刊内容一致的网络版，以单篇或整期出版形式，在印刷
+出版之前刊发论文的录用定稿、排版定稿、整期汇编定稿。因为《中国学术期刊（网络版）》是国家新闻出
+版广电总局批准的网络连续型出版物（ISSN 2096-4188，CN 11-6037/Z），所以签约期刊的网络版上网络首
+发论文视为正式出版。
+
+--- PAGE 2 ---
+网络首发时间：2023-08-15 16:49:37
+网络首发地址：https://link.cnki.net/urlid/32.1161.S.20230815.0940.004
+成都市鸟类多样性时空分布格局及热点区域识别
+任诗超1,张银龙1*,曹铭昌2*,刘 威2,乔姝凡1,朱晓泾2,罗康宁2
+（1.南京林业大学生物与环境学院，南方现代林业协同创新中心,江苏 南京 210037; 2.生态环境部南京
+环境科学研究所，江苏 南京 210042）
+摘要：【目的】探究成都市鸟类群落结构组成及空间分布格局特征，了解其鸟类群落结构组成，分析不同
+生境和季节的鸟类多样性差异，识别鸟类热点区域，为成都市及类似区域的鸟类多样性保护提供依据。
+【方法】2020 年，采用样线法和样点法对成都市 20 个行政区开展不同季节的鸟类多样性调查，通过计算
+物种丰富度、Shannon-Wiener多样性指数、Simpson指数、Pielou均匀度指数以及群落相似性系数对成都
+市鸟类进行多样性分析，同时选取41种重点鸟类并按照鸟类生态习性将其分为猛禽、陆禽、游禽、涉禽4
+类，应用 MaxEnt 模型进行成都市重点鸟类潜在生境进行预测，识别成都市鸟类生物多样性热点区域。
+【结果】共调查到鸟类 17 目 62 科 261 种，包括国家一级重点保护鸟类 1 种，国家二级重点保护鸟类 29
+种。其中留鸟99种，夏候鸟61种，冬候鸟60种，旅鸟41种。鸟类物种数和个体数、Shannon-Wiener多
+样性指数、Simpson 指数和 Pielou 均匀度指数在不同季节间皆为冬季>春季>秋季>夏季。6 种生境中，森
+林（200 种）和湿地（169 种）鸟类物种数较多，城镇用地和湿地的鸟类个体数和种群规模较高，森林生
+境中 Shannon-Wiener 多样性指数、Simpson 指数最高，城镇用地的均匀度指数最高。MaxEnt 模型预测结
+果显示猛禽分布受土地覆被类型、距湖泊距离、距森林距离影响较大，陆禽分布受距森林距离、海拔、居
+民点密度影响较大，游禽、涉禽等水鸟分布则受土地覆被类型、距湖泊距离等影响较大。成都市鸟类多样
+性热点区域主要分布在自然保护区、西部龙门山脉、西南部朝阳湖、东部龙泉山森林公园、南部三岔湖、
+兴隆湖、青龙湖湿地公园以及岷江、沱江河流等地。【结论】成都市丰富的鸟类多样性与其自然环境密切
+相关，其中森林面积较大，空间异质性高且食物来源丰富，是鸟类重要的栖息地；湿地面积占比虽较小，
+仅约占全市国土面积的2%，但鸟类丰富度却仅次于森林，在今后鸟类生物多样性保护中同样应重点关注。
+关键词：鸟类多样性；群落结构；空间分布；MaxEnt模型；潜在生境分布；热点区域
+中图分类号：S718 文献标志码：A 开放科学(资源服务)标识码(OSID)：
+Spatial and temporal distribution patterns of bird diversity and identification of
+hotspot areas in Chengdu City
+REN Shichao1, ZHANG Yinlong1*, CAO Mingchang2*, LIU Wei2, QIAO Shufan1, ZHU Xiaojing2, LUO
+Kangning2
+（1.Co-Innovation Center for Sustainable Forestry in Southern China, College of Biology and the Environment,
+Nanjing Forestry University, Nanjing 210037, China;2. Nanjing Institute of Environmental Sciences, Ministry of
+Ecology and Environment, Nanjing 210042, China)
+Abstract:【Objective】To explore the structural composition and spatial distribution pattern of bird community in
+Chengdu, understand the composition of bird community structure, analyze the differences of bird diversity in
+different habitats and seasons, and identify bird hot spots, so as to provide basis for bird diversity protection in
+Chengdu and similar areas.【Method】In 2020, a survey of bird diversity in different seasons was carried out in 20
+administrative districts of Chengdu by using the line translocation method and sampling point method. The species
+richness, Shannon-Wiener diversity index, Simpson index, Pielou evenness index and community similarity
+coefficient were calculated to analyze bird diversity in Chengdu. At the same time, 41 species of key birds were
+selected and divided into bird of prey, terrestrial bird, wader and waterfoel according to their ecological habits.
+MaxEnt model was used to predict the potential habitats of key birds in Chengdu and identify the hotspots of bird
+biodiversity in Chengdu.【Result】A total of 261 species of birds in 17 orders and 62 families were investigated,
+including 1 species of birds under national first-class key protection and 29 species of birds under national second-
+class key protection. Among them, there are 99 species of resident birds, 61 species of summer migratory birds, 60
+species of winter migratory birds and 41 species of travel birds. The number of bird species and individuals, the
+Shannon-Wiener diversity index, the Simpson index and the Pielou uniformity index are winter> spring> autumn >
+summer in different seasons. Among the six habitats, the number of bird species in forests (200 species) and wetlands
+(169 species) was large, the number of individual birds and population sizes in urban land and wetlands were higher,
+the Shannon-Wiener diversity index and Simpson index were the highest in forest habitats, and the uniformity index
+of urban land was the highest. The prediction results of MaxEnt model showed that the distribution of birds of prey
+was greatly affected by land cover type, distance from lake and distance from forest, the distribution of land birds
+was greatly affected by distance from forest, altitude and density of settlements, and the distribution of waterbirds
+such as peregrine birds and wading birds was greatly affected by land cover type and distance from lakes. Chengdu's
+bird diversity hotspots are mainly distributed in nature reserves, Longmen Mountain Range in the west, Chaoyang
+Lake in the southwest, Longquan Mountain Forest Park in the east, Sancha Lake in the south, Xinglong Lake,
+收稿日期Received：2022-12-27 修回日期Accepted：2023-08-11
+基金项目：国家重点研发计划（2018YFC0507202）。
+第一作者：任诗超（461095418@qq.com）。 通信作者：张银龙（ecoenvylz@163.com），教授，主要负责论文修改； 曹铭昌
+（caomingc@163.com），研究员，主要负责指导论文选题和组织野外实地调查。
+
+--- PAGE 3 ---
+Qinglonghu Wetland Park in the south, and Minjiang and Tuojiang rivers.【Conclusion】The rich bird diversity in
+Chengdu is closely related to its natural environment, among which the forest area is large, the spatial heterogeneity
+is high, and the food source is abundant, which is an important habitat for birds. Although the proportion of wetlands
+is small, accounting for only about 2% of the city's land area, the richness of birds is second only to forests, and it
+should also be paid attention to in the future conservation of bird biodiversity.
+Keywords: bird diversity; community; spatial distribution; MaxEnt model; potential habitat distribution; Hotspot
+areas
+鸟类作为生物多样性的重要组成部分，因分布广、数量多、易于观察且既依赖于环境
+又反应环境的变化等的特点，常被用于监测环境变化和作为生物多样性的指示物种[1-3]。了
+解鸟类多样性空间分布格局及其影响因素对鸟类多样性保护至关重要。有研究表明，栖息
+地[4-5]和城市发展[6]均会影响鸟类多样性的空间分布格局，且在高海拔地区，地貌类型[7]也
+是必要考虑要素之一。
+成都市幅员广阔、地形复杂、生境多样，有湿地、森林、草地和灌丛等多种生态系统，
+为鸟类提供丰富食物和栖息环境，是鸟类生存和繁衍的重要场所。成都市鸟类多样性丰富，
+据《成都鸟类名录2.0（2021）》报道有鸟类511种，约占全国鸟类种数的34%，四川省鸟
+类种数的 68%。此前，成都鸟类的研究多集中于鸟类生态学和繁殖生物学等方面，如王恩
+平等[8]对成都市区麻雀（Passer montanus）的夜宿规律进行了观察，唐林芳等[9]在都江堰地
+区对东方草鸮（Tyto longimembris）进行细致观察并详细记录了其繁殖过程，姜明敏等[10]则
+研究了部分都江堰林区偏爱取食樱桃的鸟类对樱桃树种子的传播扩散作用。成都地区现有
+的鸟类多样性调查研究多在零散的行政单元，如廖婷等[11]在彭州市进行的鸟类多样性分析，
+张尚明玉等[12]在都江堰地区进行的繁殖期鸟类多样性研究，缺乏从整体上对该区域鸟类多
+样性及其分布格局的科学认识。同时，作为生物多样性热点区域，此前的研究多集中于森
+林自然保护区，而在实地调查中发现，成都市河流体系对鸟类的保护也有不可忽视的价值
+[13]。为此，本研究在对成都市鸟类多样性系统调查分析的基础上，探讨成都市鸟类多样性
+分布格局特征，识别鸟类生物多样性热点区域，为成都市鸟类多样性保护提供科学依据。
+1 材料与方法
+1.1 研究地概况
+成都市总面积共14 312 km2（102°54′~104°53′E，30°05′~31°26′N），共设
+20 个行政区划单位，在四川盆地的西部，山脉平原丘陵相接之处，龙泉山脉在其东部，龙
+门山脉在其西部。地势西北部分高而东南较低，境内地势最高海拔约为5 364 m，地势最低
+部分的海拔约为 359 m，由于巨大的垂直落差，在市域内形成了平原、丘陵、高山三分的
+独特地貌类型。成都市属亚热带湿润季风气候，东西海拔的悬殊导致成都市东暖西凉的气
+候类型并存。由于海拔垂直高差近 5 000m，成都市植被类型垂直地带性分化明显，由低向
+高呈现出常绿阔叶林带、常绿与落叶阔叶混交林带、落叶阔叶林带、针叶与阔叶混交林带、
+暗针叶林带、亚高山灌丛草甸、高山草甸、冰雪永冻带等天然植被类型。然而，受人类活
+动影响，天然植被大量被破坏，取而代之的是农田栽培植被、人工林、天然次生林和次生
+灌丛等植被类型，仅在西部山地尚有原生性天然植被分布[14]。
+1.2 鸟类多样性分析
+1.2.1 生境类型划分
+结合植被特征和人为干扰程度，将成都市鸟类生境划分为森林、草地、湿地、农田、
+园地和城镇用地 6 类。森林是指植被覆盖较大的乔木和灌木丛，植被种类丰富，生态系统
+结构复杂；湿地主要包括湖泊、水库、坑塘、滩涂以及河流等区域，主要分布在成都中部
+平原地区；草地以生长草本和灌木植物为主，植被状态低矮，生态系统结构简单；农田为
+人为耕种的田地，包括水田、水浇地和旱地，以种植农作物为主；园地主要包括茶园、果
+园等，植被低矮，生态系统结构同样较为简单；城镇用地的人为干扰程度较强，主要包括
+居民住宅区域、城市绿化、交通运输建设以及公园建设用地等。
+1.2.2 样点及样线布设
+根据调查对象与内容，结合成都市的地形地貌、生境类型和自然环境状况，采用分层
+抽样原理[15]，在调查区域不同生境类型内随机且均匀的布设样线（点），样线（点）间隔
+不少于 2 km。为保证调查科学性及准确性，调查样线（点）全面覆盖森林、湿地、草地、
+农田、园地和城镇用地等多种生境类型。共设计调查样线120条，样点30个，涉及成都市
+全市。具体调查位点布设如图1所示。
+
+--- PAGE 4 ---
+审图号：GS(2022)1873。
+图1 成都市样线（点）分布
+Fig.1 Distribution of sample lines (points) in Chengdu
+1.2.3 鸟类调查
+调查于2020年1—2月、2020年4—5月、2020年6—8月、2020年9—11月在成都市
+全域开展冬、春、夏、秋四个季节的鸟类多样性调查，涉及鸟类春秋迁徙季、夏季繁殖季、
+越冬季，调查选择晴朗、风力三级以下的天气进行，每条样线间隔不少于 2.0 km，样线长
+度视情况定为 1.5~2.0 km，样点法则以调查人员所在地为样点中心，观察并记录四周发现
+的鸟类名称、数量、距离样点中心距离等信息，每个个体只记录 1 次，能够判明是飞出又
+飞回的鸟不进行计数。每次调查分四组同时进行，使用8~12倍的双筒望远镜观察，记录样
+线上遇到的物种种类、生境类型，同时参考《中国鸟类野外手册》[16]、《中国鸟类分类与
+分布名录（第三版）》[17]和《中国动物地理》[18]记录鸟类物种种类，并对其居留型以及分
+布型进行分类整理。
+1.2.4 多样性指标测定
+采用个体数量代表鸟类多度，物种数代表物种丰度，测定鸟类物种多样性用 Shannon-
+Wiener 多样性指数（H’）[19]： H '  
+S
+i
+1
+P
+i
+l n P
+i
+、以及 Simpson 指数（D）[19]：
+D  1 -
+S
+i
+1
+P 2i 来表示。式中：S 为总的物种数，P 为第 i 物种个体数与所有物种个体总数
+i
+的比值。 用Pielou均匀度指数（J）[19]测定物种均匀度：J H'/H' 。式中，H’ 为最
+max max
+大均匀条件下多样性指数，即ln S，S为总的物种数。采用Jaccard测定物种相似性指数（C）
+J
+[19]表示不同生境的群落相似性：C
+J
+ j/(ab j)。式中：j为群落A和群落B共同的物种
+数，a与b分别为群落A和群落B的物种数。
+采用 Microsoft Excel 16.0、Origin 2022和Arcgis10.8进行统计分析以及绘图。
+1.3 MaxEnt模型预测
+本研究使用最大熵模型（Maximum Entropy，MaxEnt）对成都市重点保护鸟类栖息地
+进行预测，该模型只需输入物种分布数据及环境因子，即可较准确地预测出物种潜在生境
+分布[20]，被广泛应用于物种潜在分布、保护空缺分析、珍稀濒危物种的生境评价等研究。
+1.3.1 物种分布数据
+在实地调查数据的基础上，整合白水河、黑水河、鞍子河等自然保护区考察数据，同
+时结合中国观鸟记录中心网站（http://www.birdreport.cn/）的观鸟记录，挑选国家一级、国
+家二级、中国生物多样性红色名录中濒危（EN）、易危（VU）、近危（NT）的物种作为
+成都市重点保护鸟类，通过筛选最终选取以下41种鸟类（表1），根据鸟类生态习性将41
+种重点鸟类分为猛禽、陆禽、游禽、涉禽 4 类。为减少物种分布点位过近对预测结果造成
+的过度拟合，对于各生态类群的鸟类 500 米内仅保留 1 个分布点位，最终筛选出 148 个点
+
+--- PAGE 5 ---
+位信息，并将其经纬度信息整理为csv格式。
+表1 参与MaxEnt模型运行的重点鸟类名录
+Table1 List of priority bird species involved in MaxEnt model
+生态类群 物种
+ecological taxon species
+白尾海雕Haliaeetus albicilla、褐冠鹃隼Aviceda jerdoni、金雕Aquila chrysaetos、白肩雕Aquila heliaca、
+鹗Pandion haliaetus、凤头蜂鹰Pernis ptilorhynchus、蛇雕Spilornis cheela、乌雕Clanga clanga、凤头鹰
+猛禽bird of prey
+Accipiter trivirgatus、苍鹰 Accipiter gentilis)、白尾鹞 Circus cyaneus、灰脸鵟鹰 Butastur indicus、游隼
+Falco peregrinus、普通鵟Buteo japonicus
+绿尾虹雉 Lophophorus lhuysii)、斑尾榛鸡 Tetrastes sewerzowi、红喉雉鹑 Tetraophasis obscurus、血雉
+陆禽terrestrial bird Ithaginis cruentus、勺鸡 Pucrasia macrolopha、红腹锦鸡 Chrysolophus pictus、白腹锦鸡 Chrysolophus
+amherstiae、红腹角雉Tragopan temminckii
+中华秋沙鸭 Mergus squamatus、青头潜鸭 Aythya baeri、棉凫 Nettapus coromandelianus、斑头秋沙鸭
+游禽waterfowl Mergellus albellus、小天鹅Cygnus columbianus、鸳鸯(Aix galericulata)、罗纹鸭Mareca falcata、白眼潜
+鸭Aythya nyroca、角䴙䴘Podiceps auritus
+黑颈鹤 Grus nigricollis、黑鹳 Ciconia nigra、灰鹤 Grus grus、花田鸡 Coturnicops exquisitus、白琵鹭
+涉禽wader Platalea leucorodia、白腰杓鹬 Numenius arquata、翻石鹬 Arenaria interpres、水雉 Hydrophasianus
+chirurgus、长嘴剑鸻Charadrius placidus、红胸田鸡Zapornia fusca
+1.3.2 环境数据来源及处理
+结合鸟类生活习性及前人研究[21-23]，本研究选取气候因子（年平均气温、温度季节性
+变化、最暖月最高温、最冷月最低温、气温年较差、年降水量、降水量季节性变化）、地
+形（海拔、坡度、坡向）、水源（距河流距离、距湖泊距离）、土地覆被类型、距森林距
+离、距农田距离、人为干扰（距道路距离、居民点密度）共17个环境因子进行鸟类栖息地
+预测。气候因子数据来自全球气候数据中心网站（https://www.worldclim.org/）。地形数据
+来自地理空间数字云平台（http://www.gscloud.cn/），下载空间分辨率为 30m 的 DEM 数字
+高程，在 Arcgis10.8 中使用空间分析工具提取得出海拔、坡度、坡向数据。土地覆被类型
+从GlobeLand 30网站（（http://www.globallandcover.com/）上获取。水系、居民点数据从中
+国科学院资源环境科学与数据中心网站（https://www.resdc.cn/）获取。在open street map网
+站（http://download.geofabrik.de/）下载道路数据，并通过 Arcgis10.8 中的欧氏距离分析获
+得距河流距离、距湖泊距离、距道路距离等。将以上环境因子以 30 m*30 m 分辨率进行重
+采样，并统一坐标系为WGS_1984_UTM_Zone_48N，最后保存为ASCII格式导出。
+1.3.3 模型运算与评价
+将环境因子导入到 MaxEnt 模型后，设置土地覆被类型为离散型（Categorical），其余
+环境因子设为连续型（Continuous），随机选取 25%的分布点数据作为测试集，设置随机
+选取 75%的分布数据用于模型训练，将剩余的 25%用于模型验证，重复运行类别选取自举
+法（Bootstrap），设置模型迭代次数为 10 000 次，重复 10 次，其他参数保持默认值，以
+Logistic 格式输出结果，并用刀切法（Jackknife）检验各环境因子的重要性。
+模拟结果验证采用ROC（receiver operating characteristic）曲线下的面积（area under ，
+AUC）值的大小来评价MaxEnt模型预测精度。评价标准为：AUC值为0.5~0.6，不及格；
+0.6~0.7，较差；0.7~0.8，一般；0.8~0.9，良好；0.9~1.0，优秀[24]。
+1.3.4 模型整合与热点区分析
+将模型运行结果导入到 Arcgis 10.8 中进行重分类，采用自然间断点分级法将其分为不
+适生区、低适生区、中适生区、高适生区 4 类[25]，最后将各生态类群的适宜性结果使用栅
+格计算器进行叠加，得到成都市鸟类鸟类生境空间分布格局，计算所有鸟类高适生区面积。
+2 结果与分析
+2.1 成都市鸟类物种组成
+本次调查共记录到鸟类261种64 250只，隶属于17目62科。其中，科数和物种数最
+多的为雀形目，为40科（64.52%）154种（59%）。国家一级重点保护鸟类有2种，金雕、
+乌雕；国家二级重点保护鸟类有37种，红腹锦鸡、白腹锦鸡、血雉、红腹角雉等；被《中
+国生物多样性红色名录——脊椎动物卷》[26]评定为濒危（EN）的 1 种，乌雕；易危（VU）
+的4种，金雕、靴隼雕（Hieraaetus pennatus）、大鵟（Buteo hemilasius）、褐头鸫（Turdus
+feae）；近危（NT）的有20种，为红腹锦鸡、鸳鸯、血雉、罗纹鸭等。调查发现我国特有
+的鸟类 5 种，分别为灰胸竹鸡（Bambusicola thoracicus）、红腹锦鸡、黄腹山雀
+（Pardaliparus venustulus）、橙翅噪鹛（Trochalopteron elliotii）和蓝鹀（Emberiza
+
+--- PAGE 6 ---
+siemsseni）。
+居留类型方面，留鸟 99 种（占 38.17%），旅鸟 41 种（占 15.65%），夏候鸟 61 种
+（占 23.28%），冬候鸟 60 种（占 22.90%）。区系组成方面，东洋型鸟类是成都鸟类群落
+的主要组成部分，共89种（占33.97%），其次是古北型44种（占16.79%）、不易归类分
+布型 33 种（占 12.98%）、喜马拉雅-横断山区型 30 种（占 11.45%）、东北型 21 种（占
+8.02%）、全北型 19 种（占 7.25%）、南中国型 17 种（占 6.49%）、季风型 3 种（占
+1.15%）、东北-华北型 3 种（占 1.15%）、高地型 1 种（占 0.38%）、中亚型 1 种（占
+0.38%）。
+2.2 鸟类多样性季节变化
+鸟类物种数各季节由大到小依次为冬季（168）、春季（156）、秋季（143）、夏季
+（114），个体数各季节由大到小依次为冬季（20 807）、春季（16 794）、秋季（14 858）、
+夏季（11 791），皆呈现“冬季>春季>秋季>夏季”的变化趋势。冬季鸟类物种数和个体数
+最多，共调查到168种20 807只，隶属于15目47科。其中雀形目最为丰富，共29科102
+种，个体数量占比 61.29%，其次为雁形目，均为鸭科，共 14 种 4 153 只，占比 19.96%。
+Shannon-Wiener多样性指数、Simpson指数和Pielou均匀度指数皆呈现冬季>秋季>春季>夏
+季的变化趋势（图2），其中各季节Simpson指数和Pielou均匀度指数差异较小。
+图2 成都市不同季节鸟类指数分析
+Fig.2 Analysis of bird indexes in different seasons in Chengdu
+2.3不同生境中鸟类多样性
+调查结果表明，森林（200种）和湿地（169种）的鸟类物种数最多，而草地（32种）
+和园地（42种）的鸟类物种数最少。类似于鸟类群落组成，不同生境的Shannon-Wiener多
+样性指数分析表明，鸟类多样性水平上森林>湿地>农田>城镇用地>园地>草地（表2）。然
+而，Pielou均匀度指数表明在鸟类群落均匀性上森林>农田>草地>园地>湿地>城镇用地。均
+匀性最差的为城镇用地，城市鸟类占比较大，优势明显，鸟类分布不均（表2）。
+表2 成都市不同生境鸟类物种数、个体数和多样性指数
+Table 2 Number of species, individuals and diversity indices of birds in different habitats in Chengdu
+物种数 个体数 香农多样性指数
+生境类型 面积/ km2 辛普森指数 均匀度指数
+number of number of shannon wiener
+habitat type area simpson index pielou index
+species individuals index
+草地grassland 90 32 493 2.528 0.874 0.729
+农田farmland 3 320 123 7 805 3.548 0.949 0.737
+森林forest 4 955 200 14 169 3.939 0.967 0.743
+湿地wetland 287 169 21 392 3.643 0.958 0.710
+城镇用地Urban land 2 280 153 19 925 3.395 0.935 0.675
+园地garden 1 574 42 466 3.040 0.929 0.713
+从不同生境鸟类群落相似性分析可以看出（表 3），相似性最高的为湿地和城镇用地
+（0.51），其次为森林和城镇用地（0.50）以及森林和湿地（0.45）。草地和其他生境的鸟
+类群落相似性指数最低，园地和其他生境的鸟类分布相似性指数也较低。
+
+--- PAGE 7 ---
+表3 成都市不同生境鸟类群落的共同鸟种数（左下角）和Jaccard相似性指数（右上角）
+Table 3 Number of common bird species (bottom left) and similarity index (top right) of bird communities in
+different habitats in Chengdu
+生境类型 草地 农田 森林 湿地 城镇用地 园地
+habitat type grassland farmland forest wetland urban land garden
+草地grassland 0.17 0.12 0.14 0.16 0.28
+农田farmland 23 0.35 0.40 0.43 0.29
+森林forest 25 83 0.45 0.50 0.20
+湿地wetland 25 84 114 0.51 0.24
+城镇用地Urban land 25 83 118 109 0.26
+园地garden 16 37 40 41 40
+2.4 MaxEnt模型预测结果评估
+运用MaxEnt模型对成都市重点鸟类进行潜在生境预测，猛禽、陆禽、涉禽、游禽的运
+行结果AUC值分别为0.933、0.984、0.994、0.957，表明MaxEnt模型的预测结果准确性较
+好，适用于评估本研究中的各物种生境适宜性。环境变量重要性贡献率检验结果表明，各
+类环境因子对不同生态类群的影响差异较大，图 3 为影响各生态类群鸟类栖息地适宜性的
+主要环境因子，图中仅展示了贡献率大于5%的环境因子。结果表明，猛禽的适宜栖息地受
+土地覆被类型（18%）、距湖泊距离（16.1%）、距森林距离（8.4%）、坡向（8%）、距
+农田距离（6.4%）等因素影响较大；陆禽的适宜栖息地受距森林距离（20.6%）、海拔
+（19.8%）、居民点密度（14.1%）、年均温（10.3%）等因素影响较大；游禽的适宜栖息
+地受土地覆被类型（70.9%）、距湖泊距离（14.1%）、居民点密度（5%）等因素影响较大；
+涉禽的适宜栖息地受土地覆被类型（65.5%）、距湖泊距离（11.1%）、距农田距离（7.3%）
+等因素影响较大。
+图3 不同生态类群鸟类环境因子贡献率
+Fig.3 Contribution of environmental factors of birds in different ecological groups
+2.5 栖息地适宜性空间分布及热点区域识别
+研究表明，猛禽高适生区面积约为 933.72 km2，主要分布在东部龙泉山脉、西部龙门
+山脉以及平原内靠近湖泊河流的地方（图4）。陆禽高适生区面积约为420.85 km2，主要分
+布在北部龙溪—虹口、白水河国家级自然保护区以及西部黑水河、鞍子河省级自然保护区
+内的高海拔、受人为干扰小的森林中。涉禽高适生区面积约为 40.73 km2，主要分布在平原
+内的湿地及河滩中，如龙泉湖、兴隆湖等地。游禽高适生区面积约为 218.91 km2，主要分
+布在平原内的湖泊、水库、岷江和沱江河流中。总的来看，所有鸟类的高适生区面积约 1
+313.59 km2，除保护区外，东部龙泉山脉以及中部平原内的岷江、沱江、湖泊湿地等均为成
+
+--- PAGE 8 ---
+都市鸟类热点分布区域，如兴隆湖凭借宽阔的水面和湿地资源，是大群越冬水鸟的关键区
+域，浣花溪公园、百花潭公园、青龙湖湿地公园、北湖生态公园等扮演着“绿岛”作用，
+是成都市市区不可或缺的鸟类自然栖息地。
+审图号：GS(2022)1873。
+图4 不同生态类群及所有鸟类生境空间分布格局
+Fig.4 Spatial distribution patterns of different ecological groups and habitats of all bird species
+3 讨论
+本次成都市调查共记录到鸟类 261 种，占四川省鸟类种数[27]的 67.5%，物种丰富，且
+珍稀濒危鸟类较多。通过对成都市不同生境及季节的全面调查，从整体上明确了鸟类的时
+空分布特征，丰富了成都市鸟类资源水平，并了解成都市鸟类多样性的保护空缺及关键栖
+息地，为进一步保护成都市及四川盆地地区鸟类多样性提供基础支撑。
+生境不同和季节变化都会导致鸟类多样性的差异[28-29]，在不同生境中，森林的鸟类物
+种数最多，Shannon-Wiener 多样性指数最高。因西部龙门山脉、东部龙泉山脉存在大面积
+的次生常绿阔叶林和马尾松林、柏木林，食物资源种类和栖息场所种类丰富，空间异质性
+高，吸引了较多鸟类，与此前廖婷等[11]在四川省成都市彭州市调查结果一致。在不同季节
+中，冬季鸟类多度及丰度、Shannon-Wiener多样性指数、Simpson指数和Pielou均匀度指数
+均最高，主要是大量水鸟会选择在岷江、湖泊、水库、城市公园等水域及湿地进行越冬，
+且多集群分布，同时成都市山区沿海拔迁徙的鸟类会在冬季下降到低海拔区域，致使冬季
+鸟类调查种数及多样性增加。MaxEnt 模型预测结果显示成都市鸟类多样性热点区域主要分
+布在自然保护区、东部龙泉山脉、西部龙门山脉、以及岷江河流、平原内靠近湖泊等地。
+成都市作为我国候鸟迁徙的重要通道之一[30]，以及其丰富的林地、湿地资源吸引了众
+多鸟类。值得关注的是，成都市湿地总面积为 28 716.32 公顷，约占全市国土面积的 2%，
+但吸引了大量水鸟，湿地鸟类丰富度仅次于森林，具有较高的保护价值。在今后的生物多
+样性保护中，应结合《湿地公约》所提出的要求，建立以湿地公园为主体的湿地保护体系，
+重视小微湿地对鸟类多样性的保护[31]，增强湿地间的连通性，在迁徙和越冬季节做好湿地
+水鸟的保护。
+参考文献（References）：
+[1] RENNER S C，BATES P J J．Historic changes in species composition for a globally unique bird
+community[J]．Sci Rep，2020，10(1)：10739．DOI: 10.1038/s41598-020-67400-z.
+[2] 李俊冬，査禄慧，马国强，等．云南楚雄小百草岭鸟类多样性空间格局[J]．南京林业大学学报(自然
+科学版)，2023，47(2)：225-233．LI J D，ZHA L H，MA G Q，et al．Bird diversity spatial distribution
+patterns of Xiaobaicaoling in Chuxiong，Yunnan[J]．J Nanjing for Univ(Nat Sci Ed)，2023，47(2)：225-
+233．DOI: 10.12302/j.issn.1000-2006.202108005.
+
+--- PAGE 9 ---
+[3] 张健嵩，陆文朱，汤锦涛，等．云南省永德县繁殖季鸟类多样性[J]．生态与农村环境学报，2021，
+37(11)：1423-1429．ZHANG J S，LU W Z，TANG J T，et al．Diversity of birds in Yongde County，
+Yunnan Province during breeding season[J]．J Ecol Rural Environ，2021，37(11)：1423-1429．DOI:
+10.19741/j.issn.1673-4831.2021.0101.
+[4] 孙孝平，张银龙，曹铭昌，等．黄河三角洲自然保护区秋冬季水鸟群落组成与生境关系分析[J]．生态
+与农村环境学报，2015，31(4)：514-521．SUN X P，ZHANG Y L，CAO M C，et al．Structure of
+waterfowl community in relation to habitat in the Yellow River Delta nature reserve in autumn migratory and
+wintering periods[J]．J Ecol Rural Environ，2015，31(4)：514-521．DOI: 10.11934/j.issn.1673-
+4831.2015.04.011.
+[5] 邵君学，胡昕欣，王俪玢，等．湿地公园鸟类栖息地禾本科群落盖度对雀形目鸟类集团的影响[J]．南
+京林业大学学报(自然科学版)，2022，46(4)：194-200．SHAO J X，HU X X，WANG L B，et
+al．Influences of Gramineae community coverage in bird habitats of wetland parks on Passeriformes bird
+groups[J]．J Nanjing For Univ (Nat Sci Ed)，2022，46(4)：194-200．DOI: 10.12302/j.issn.1000-
+2006.202104047.
+[6] 王茜，刘智存，刘天宇，等．城市鸟类多样性研究中的多维度探索研究进展[J]．生态学杂志，2022，
+41(10)：2058-2063．WANG Q，LIU Z C，LIU T Y，et al．Multi-dimensional exploration in the study of
+urban bird diversity：A review[J]．Chin J Ecol，2022，41(10)：2058-2063．DOI: 10.13292/j.1000-
+4890.202210.004.
+[7]杨永炳，普布，杨乐．西藏东南横断山区鸟类多样性概述[J]．西部林业科学，2021，50(6)：149-158，
+165．YANG Y B，PUBU，YANG L．Bird diversity in Hengduan Mountain area of southeast Xizang
+aotunmous region[J] ． J West China For Sci ， 2021 ， 50(6) ： 149-158 ， 165 ． DOI:
+10.16473/j.cnki.xblykx1972.2021.06.020.
+[8] 王恩平，陈爽．成都市区麻雀夜宿规律初步观察[J]．四川动物，2004，23(4)：352-354．WANG E P，
+CHEN S．Observation on roosting rhythm of Passer montanus in Chengdu urban districts[J]．Sichuan J Zool，
+2004，23(4)：352-354．DOI: 10.3969/j.issn.1000-7083.2004.04.015.
+[9] 唐林芳，贾陈喜．四川都江堰东方草鸮的繁殖记录[J]．动物学杂志，2015，50(2)：251，321．TANG
+L F，JIA C X．Notes on breeding of eastern grass owl(Tyto longimembris) in Dujiangyan，Sichuan，
+China[J]．Chin J Zool，2015，50(2)：251，321．DOI: 10.13859/j.cjz.201502023.
+[10] 姜明敏，曹林，肖治术，等．都江堰林区取食樱桃果实(种子)的鸟类及其种子扩散作用[J]．动物学杂
+志，2010，45(1)：27-34．JIANG M M，CAO L，XIAO Z S，et al．Frugivorous birds and its impacts on
+seed dispersal of wild cherry(Prunus pseudocerasus) in a Dujiangyan forest，China[J]．Chin J Zool，2010，
+45(1)：27-34．DOI: 10.13859/j.cjz.2010.01.004.
+[11]廖婷，廖静，冉江洪，等．四川彭州市的鸟类多样性[J]．四川动物，2021，40(1)：99-114．LIAO T，
+LIAO J，RAN J H，et al．Bird diversity in Pengzhou，Sichuan Province[J]．Sichuan J Zool，2021，40(1)：
+99-114．DOI: 10.11984/j.issn.1000-7083.20200163.
+[12] 张尚明玉，何兴成，王燕，等．都江堰地区繁殖期鸟类多样性[J]．生物多样性，2022，30(3)：90-
+98 ． ZHANG S ， HE X C ， WANG Y ， et al ． Diversity of birds in breeding season of
+Dujiangyan[J]．Biodivers Sci，2022，30(3)：90-98．DOI: 10.17520/biods.2021329.
+[13] 李云，韦毅，董鑫，等．四川省湿地水鸟资源现状与保护[J]．生态学杂志，2020，39(06)：1847-
+1857．LI Y，WEI Y，DONG X，et al．The status and conservation of wetland birds in Sichuan
+Province[J]．Chin J Ecol，2020，39(06)：1847-1857．DOI: 10.13292/j.1000-4890.202006.024.
+[14] 罗艳，杨一川，沈松平，等．城市化对成都市植被景观格局影响研究[J]．四川林业科技，2021，
+42(5)：29-39．LUO Y，YANG Y C，SHEN S P，et al．Study on effects of urbanization on vegetation
+landscape pattern in Chengdu city[J]．J Sichuan For Sci Technol，2021，42(5)：29-39．DOI:
+10.12172/202101280001.
+[15] XU H G，CAO M C，WU Y，et al．Optimized monitoring sites for detection of biodiversity trends in
+China[J]．Biodivers Conserv，2017，26(8)：1959-1971．DOI: 10.1007/s10531-017-1339-3.
+[16] 约翰·马敬能，卡伦·菲力普斯．中国鸟类野外手册[M]．卢何芬，译．长沙：湖南教育出版社，
+2000. MACKINNON J，PHILLIPPS K．A field guide to the birds of China[M]．LU H F，
+translate．Changsha：Hunan Education Publishing House，2000.
+[17] 郑光美．中国鸟类分类与分布名录[M]. 3版．北京：科学出版社，2017．ZHENG G M．A checklist on
+the classification and distribution of the birds of China[M]．3rd ed．Beijing：Science Press，2017.
+[18] 张荣祖．中国动物地理[M]．北京：科学出版社，2011．ZHANG R Z. Chinese animal
+geography[M]．Beijing：Science Press，2011.
+[19] 马克平，刘玉明．生物群落多样性的测度方法 Ⅰα多样性的测度方法(下)[J]．生物多样性，1994，
+2(4)：231-239．MA K P，LIU Y M. Measurement of biotic community diversity:Ⅰα diversity [J]．Chin
+Biodiversty，1994，2(4): 231-239.
+[20] 邢丁亮，郝占庆．最大熵原理及其在生态学研究中的应用[J]．生物多样性，2011，19(3)：295-
+302 ． XING D L ， HAO Z Q ． The principle of maximum entropy and its applications in
+ecology[J]．Biodivers Sci，2011，19(3)：295-302．DOI: 10.3724/SP.J.1003.2011.08318.
+
+--- PAGE 10 ---
+[21] 赵宁，夏少霞，于秀波，等．基于 MaxEnt 模型的渤海湾沿岸鸻鹬类栖息地适宜性评价[J]．生态学杂
+志，2020，39(1)：194-205．ZHAO N，XIA S X，YU X B，et al．Habitat suitability assessment of
+shorebirds in Bohai Bay coast using MaxEnt Model[J]．Chin J Ecol，2020，39(1)：194-205．DOI:
+10.13292/j.1000-4890.202001.015.
+[22] 张琼悦，邓卓迪，胡学斌，等．粤港澳大湾区城市化进程对区域内鸟类分布及栖息地连通性的影响
+[J]．生物多样性，2023，31(3)：72-84．ZHANG Q Y，DENG Z D，HU X B，et al．The impact of
+urbanization on regional bird distribution and habitat connectivity in the Guangdong-Hong Kong-Macao
+Greater Bay Area[J]．Biodivers Sci，2023，31(3)：72-84．DOI: 10.17520/biods.2022161.
+[23] 吕环鑫，夏少霞，顾婧婧，等．基于 MaxEnt 模型的仙居县大型兽类和珍稀鸟类栖息地适宜性评价
+[J/OL] ． 生 态 学 杂 志 ： 1-13[2023-04-
+15]．http://kns.cnki.net/kcms/detail/21.1148.Q.20230313.1532.004.html. LYU H X，XIA S X，GU J J，et
+al．Habitat suitability assessment of large mammals and rare birds in Xianju County based on MaxEnt
+modelling[J/OL] ． Chin J Ecol ： 1-13[2023-04-
+15]．http://kns.cnki.net/kcms/detail/21.1148.Q.20230313.1532.004.html.
+[24] SWETS J A．Measuring the accuracy of diagnostic systems[J]．Science，1988，240(4857)：1285-
+1293．DOI: 10.1126/science.3287615.
+[25] 罗绮琪，胡慧建，徐正春，等．基于 Maxent 模型的粤港澳大湾区水鸟多样性热点研究[J]．生态学报，
+2021，41(19)：7589-7598．LUO Q Q，HU H J，XU Z C，et al．Hotspots of the waterbirds diversity in
+Guangdong-Hong Kong-Macao Greater Bay Area based on Maxent model[J]．Acta Ecol Sin，2021，41(19)：
+7589-7598．DOI: 10.5846/stxb202004301073.
+[26] 环境保护部，中国科学院．中国生物多样性红色名录——脊椎动物卷[EB/OL]．(2015-05-21)[2022-08-
+01]．https://www.mee.gov.cn/gkml/hbb/bgg/201505/t20150525_302233.html.
+[27] 阙品甲，朱磊，张俊，等．四川省鸟类名录的修订与更新[J]．四川动物，2020，39(3)：332-
+360．QUE P J，ZHU L，ZHANG J，et al．Updates to the checklist of birds in Sichuan
+Province[J]．Sichuan J Zool，2020，39(3)：332-360．DOI: 10.11984/j.issn.1000-7083.20190430.
+[28] 尹世轩，吴永波，黄潇宇．常州市金坛生态红线区鸟类多样性研究[J/OL]．南京林业大学学报(自然科
+学版)：1-11[2022-12-29]．http://kns.cnki.net/kcms/detail/32.1161.s.20220607.1825.002.html．YIN S X，
+WU Y B，HUANG X Y．Bird diversity of Jintan ecological redline areas in Changzhou City[J/OL]. J Nanjing
+For Univ(Na Sci Ed)：1-11[2022-12-29]．http://kns.cnki.net/kcms/detail/32.1161.s.20220607.1825.002.html.
+DOI: 10.12302/j.issn.1000-2006.202202021.
+[29] 王玄，崔鹏，丁晶晶，等．江苏南部沿海越冬水鸟群落结构及多样性分析[J]．南京林业大学学报(自
+然科学版)，2021，45(5)：178-184．WANG X，CUI P，DING J J，et al．Community structure and
+diversity of overwintering waterfowls in south coast of Jiangsu Province[J]．J Nanjing For Univ(Nat Sci Ed)，
+2021，45(5)：178-184．DOI: 10.12302/j.issn.1000-2006.202004058.
+[30] 梁敏仪，冉江洪，梁思琪，等．四川省猛禽多样性及迁徙路线[J]．生物多样性，2016，24(12)：1408-
+1413．LIANG M Y，RAN J H，LIANG S Q，et al．Diversity and migration routes of raptors in Sichuan
+Province[J]．Biodivers Sci，2016，24(12)：1408-1413．DOI: 10.17520/biods.2016238.
+[31]汪婷，周立志．合肥市小微湿地鸟类多样性的时空格局及其影响因素[J]．生物多样性，2022，30(7)：
+146-158．WANG T，ZHOU L Z．The spatial-temporal patterns of bird diversity and its determinants in the
+small wetlands in Hefei City[J]．Biodivers Sci，2022，30(7)：146-158．DOI: 10.17520/biods.2021445.
+
